@@ -24,12 +24,12 @@ async def main(bot: Bot, event: Event):
             try:
                 meme = get_meme(text)
                 result = meme(images=[avatar], texts=[], args={"circle": True})
-                message = convert_img(result.getvalue())
-                bot.send(message)
+                message = await convert_img(result.getvalue())
+                await bot.send(message)
             except:
-                bot.send("请输入有效的key！")
+                await bot.send("请输入有效的key！")
         else:
-            bot.send(convert_img("./docs/screenshot.png"))
+            await bot.send(await convert_img("./docs/screenshot.png"))
 
 
 
