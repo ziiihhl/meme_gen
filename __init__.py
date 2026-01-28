@@ -29,7 +29,7 @@ async def main(bot: Bot, event: Event):
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！")
         else:
-            await bot.send(await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/screenshot.png"))
+            await bot.send(await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg"))
 
 
 
