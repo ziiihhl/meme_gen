@@ -29,7 +29,7 @@ async def main(bot: Bot, event: Event):
             except:
                 bot.send("请输入有效的key！")
         else:
-            bot.send(Message("image", {"file": "./docs/screenshot.png"))
+            bot.send(Message("image", {"file": "./docs/screenshot.png"}))
 
 
 
