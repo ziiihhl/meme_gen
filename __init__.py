@@ -15,8 +15,7 @@ async def main(bot: Bot, event: Event):
     avatar_url = event.sender['avatar']
     get_resp = await client.get(avatar_url)
     get_resp.raise_for_status()
-    avatar_bytes = get_resp.content
-    avatar = BytesIO(avatar_bytes)
+    avatar = get_resp.content
     name = event.sender['nickname']
     text = event.text.strip()
     if text :
