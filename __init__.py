@@ -6,6 +6,7 @@ import base64
 from gsuid_core.sv import SV
 from gsuid_core.bot import Bot
 from gsuid_core.models import Event
+from gsuid_core.utils.image.convert import convert_img
 
 meme_gen = SV("表情包生成")
 @meme_gen.on_command("表情包")
@@ -23,13 +24,12 @@ async def main(bot: Bot, event: Event):
             try:
                 meme = get_meme(text)
                 result = meme(images=[avatar], texts=[], args={"circle": True})
-                result_b64 = base64.b64encode(result.getvalue()).decode('utf8')
-                message = Message("image", {"b64": result_b64})
+                message = convert_img(result.getvalue())
                 bot.send(message)
             except:
                 bot.send("请输入有效的key！")
         else:
-            bot.send(Message("image", {"file": "./docs/screenshot.png"}))
+            bot.send(convert_img("./docs/screenshot.png"))
 
 
 
