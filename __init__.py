@@ -1,8 +1,7 @@
-import asyncio
 from io import BytesIO
 import httpx
 from meme_generator import get_meme
-import meme_keywords
+from meme_gen.utils import meme_keywords
 import base64
 from gsuid_core.sv import SV
 from gsuid_core.bot import Bot
