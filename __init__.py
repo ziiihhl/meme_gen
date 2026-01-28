@@ -22,10 +22,10 @@ async def main(bot: Bot, event: Event):
     if text :
         if text != "帮助":
             try:
-                meme = get_meme(text)
-                result = meme(images=[avatar], texts=[], args={"circle": True})
-                message = await convert_img(result.getvalue())
-                await bot.send(message)
+                # meme = get_meme(text)
+                # result = meme(images=[avatar], texts=[], args={"circle": True})
+                # message = await convert_img(result.getvalue())
+                await bot.send(avatar)
             except:
                 await bot.send("请输入有效的key！")
         else:
