@@ -1,3 +1,4 @@
+import os.path
 from io import BytesIO
 import httpx
 from meme_generator import get_meme
@@ -20,15 +21,15 @@ async def main(bot: Bot, event: Event):
     text = event.text.strip()
     if text :
         if text != "帮助":
-            # try:
-                # meme = get_meme(text)
-                # result = meme(images=[avatar], texts=[], args={"circle": True})
-                # message = await convert_img(result.getvalue())
+            try:
+                meme = get_meme(text)
+                result = meme(images=[avatar], texts=[], args={"circle": True})
+                message = await convert_img(result.getvalue())
                 await bot.send(await convert_img(avatar))
-            # except:
-            #     await bot.send("请输入有效的key！")
+            except Exception as e:
+                await bot.send(f"错误:{e}请输入有效的key！")
         else:
-            await bot.send(await convert_img("./docs/screenshot.png"))
+            await bot.send(await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/screenshot.png"))
 
 
 
