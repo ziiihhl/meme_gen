@@ -18,11 +18,19 @@ async def main(bot: Bot, event: Event):
     avatar = BytesIO(avatar_bytes)
     name = event.sender['nickname']
     text = event.text.strip()
-    meme = get_meme("petpet")
-    result = meme(images=[avatar], texts=[], args={"circle": True})
-    result_b64 = base64.b64encode(result.getvalue()).decode('utf8')
-    message = Message("image",{"b64":result_b64})
-    bot.send(message)
+    if text :
+        if text != "帮助":
+            try:
+                meme = get_meme(text)
+                result = meme(images=[avatar], texts=[], args={"circle": True})
+                result_b64 = base64.b64encode(result.getvalue()).decode('utf8')
+                message = Message("image", {"b64": result_b64})
+                bot.send(message)
+            except:
+                bot.send("请输入有效的key！")
+        else:
+            bot.send(Message("image", {"file": "./docs/screenshot.png"))
+
 
 
 

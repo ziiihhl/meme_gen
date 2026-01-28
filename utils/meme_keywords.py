@@ -2,7 +2,7 @@ import os
 import ast
 from datetime import datetime
 
-MEMES_DIR = "../emoji"
+MEMES_DIR = "../memes"
 OUTPUT_DIR = "../docs"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "meme_keywords.html")
 
