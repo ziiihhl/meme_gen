@@ -36,7 +36,6 @@ dependencies = [
     "matplotlib-inline==0.1.7",
     "mdurl==0.1.2",
     "meme-generator==0.1.14",
-    "msvc-runtime==14.44.35112",
     "nepattern==0.7.7",
     "nest-asyncio==1.6.0",
     "numpy==2.4.1",
