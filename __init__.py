@@ -31,7 +31,7 @@ async def main(bot: Bot, event: Event):
                 await bot.send(f"错误:{e}请输入有效的key！")
         else:
             file_bs64 = await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg",True)
-            message = Message("file",file_bs64)
+            message = Message("file",f"帮助|{file_bs64}")
             await bot.send(message)
 
 
