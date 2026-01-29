@@ -31,10 +31,11 @@ async def main(bot: Bot, event: Event):
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！")
         else:
-            # async with aiofiles.open( "rb") as f:
-            img_bs64 =await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg")
-            file_bs64 =img_bs64.replace("base64://",'')
-            message = Message("text",f"帮助.jpg|{file_bs64}")
+            async with aiofiles.open(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg","rb")as fp:
+                img_bytes = await fp.read()
+            img_bs64 =base64.b64encode(img_bytes).decode()
+            file_bs64 =f"data:image/jpeg;base64,{img_bs64}"
+            message = Message("file",f"帮助.jpg|{file_bs64}")
             await bot.send(message)
 
 
