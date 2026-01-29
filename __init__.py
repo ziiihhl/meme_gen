@@ -35,7 +35,7 @@ async def main(bot: Bot, event: Event):
                 img_bytes = await fp.read()
             img_bs64 =base64.b64encode(img_bytes).decode()
             file_bs64 =img_bs64
-            message = Message("file",f"帮助.jpg|{file_bs64}")
+            message = Message("file",f"帮助(请点查看原图！).jpg|{file_bs64}")
             await bot.send(message)
 
 
