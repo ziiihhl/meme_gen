@@ -2,7 +2,7 @@ import os
 import ast
 from datetime import datetime
 
-MEMES_DIR = "../memes"
+MEMES_DIR = "../emoji"
 OUTPUT_DIR = "../docs"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "meme_keywords.html")
 
@@ -87,7 +87,7 @@ def generate_markdown_table(modules_info, previews_by_module):
         f'<th{get_style_attr(TABLE_COLUMN_WIDTHS["images"])}>图片</th>',
         f'<th{get_style_attr(TABLE_COLUMN_WIDTHS["texts"])}>文字</th>',
         # f'<th{get_style_attr(TABLE_COLUMN_WIDTHS["defaults"])}>默认文字</th>',
-        # f'<th{get_style_attr(TABLE_COLUMN_WIDTHS["module"])}>模块</th>',
+        f'<th{get_style_attr(TABLE_COLUMN_WIDTHS["module"])}>模块</th>',
         # f'<th{get_style_attr(TABLE_COLUMN_WIDTHS["date"])}>创建日期</th>',
         '</tr>',
         '</thead>',
@@ -103,7 +103,7 @@ def generate_markdown_table(modules_info, previews_by_module):
         default_texts = "<br/>".join(t.replace("\n", "<br/>") for t in info["default_texts"]) if info["default_texts"] else "&nbsp;"
         
         if module in previews_by_module:
-            preview = f'<img src="{previews_by_module.get(module)}" width="150">'
+            preview = f'<img src="{previews_by_module.get(module)}" width="120">'
         else:
             preview = "&nbsp;"
             
@@ -114,7 +114,7 @@ def generate_markdown_table(modules_info, previews_by_module):
         lines.append(f'<td align="center">{image_count}</td>')
         lines.append(f'<td align="center">{text_count}</td>')
         # lines.append(f'<td>{default_texts}</td>')
-        # lines.append(f'<td>{module_link}</td>')
+        lines.append(f'<td>{module_link}</td>')
         # lines.append(f'<td align="center">{date_str}</td>')
         lines.append(f'</tr>')
     
@@ -153,9 +153,16 @@ def main():
     
     html_table = generate_markdown_table(modules_info, previews_by_module)
     markdown = header + "\n\n" + html_table
-
+    html="""<!DOCTYPE html>
+<html lang=zh>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+"""\
+         +html_table+"\n</body>\n</html>"
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(html_table)
+        f.write(html)
 
     print(f"✅ 输出完成：{OUTPUT_FILE}")
 
