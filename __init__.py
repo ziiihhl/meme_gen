@@ -3,6 +3,7 @@ from io import BytesIO
 import httpx
 from meme_generator import get_meme
 from meme_gen.utils import meme_keywords
+from gsuid_core.models import Message
 import base64
 from gsuid_core.sv import SV
 from gsuid_core.bot import Bot
@@ -29,7 +30,9 @@ async def main(bot: Bot, event: Event):
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！")
         else:
-            await bot.send(await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg"))
+            file_bs64 = await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg",True)
+            message = Message("file",file_bs64)
+            await bot.send(message)
 
 
 
