@@ -22,6 +22,9 @@ async def main(bot: Bot, event: Event):
     avatar = get_resp.content
     name = event.sender['nickname']
     text = event.text
+    at =event.at
+    if at :
+        avatar =f"http://q1.qlogo.cn/g?b=qq&nk={at}&s=640"
     if text :
         command = text.split(" ")[0]
         prompts =text.split(" ")[-1]
@@ -52,8 +55,8 @@ async def main(bot: Bot, event: Event):
                         result = meme(images=[], texts=[], args={"circle": False})
                     message = await convert_img(result.getvalue())
                     await bot.send(message)
-                # else :
-                #     raise ValueError
+                else :
+                    raise ValueError
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！{prompts}")
         else:
