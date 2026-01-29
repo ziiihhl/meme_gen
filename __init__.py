@@ -30,7 +30,8 @@ async def main(bot: Bot, event: Event):
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！")
         else:
-            file_bs64 = await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg",True)
+            file_bs64 ="data:image/jpg;base64,"+ await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg",True).replace('base64://','')
+            await bot.send(file_bs64)
             message = Message("file",f"帮助.jpg|{file_bs64}")
             await bot.send(message)
 
