@@ -1,9 +1,11 @@
+import json
 import os.path
 import aiofiles
 from io import BytesIO
 import httpx
 from meme_generator import get_meme
 from meme_gen.utils import meme_keywords
+from meme_gen.utils.meme_keywords import get
 from gsuid_core.models import Message
 import base64
 from gsuid_core.sv import SV
@@ -22,12 +24,22 @@ async def main(bot: Bot, event: Event):
     name = event.sender['nickname']
     text = event.text.strip()
     if text :
+        meme_key = ''
         if text != "帮助":
             try:
-                meme = get_meme(text)
-                result = meme(images=[avatar], texts=[], args={"circle": True})
-                message = await convert_img(result.getvalue())
-                await bot.send(message)
+                async with aiofiles.open(os.path.dirname(os.path.abspath(__file__)) +"/utils/info.json",'r') as f:
+                    info= json.load(f)
+                for key,val in info.items():
+                    if text in val:
+                        meme_key=key
+                        break
+                if meme_key:
+                    meme = get_meme(meme_key)
+                    result = meme(images=[avatar], texts=[], args={"circle": True})
+                    message = await convert_img(result.getvalue())
+                    await bot.send(message)
+                else :
+                    raise ValueError
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！")
         else:
