@@ -54,7 +54,7 @@ async def main(bot: Bot, event: Event):
                 else :
                     raise ValueError
             except Exception as e:
-                await bot.send(f"错误:{e}请输入有效的key！")
+                await bot.send(f"错误:{e}请输入有效的key！{prompts}")
         else:
             async with aiofiles.open(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg","rb")as fp:
                 img_bytes = await fp.read()
