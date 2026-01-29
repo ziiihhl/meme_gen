@@ -16,15 +16,15 @@ meme_gen = SV("表情包生成")
 @meme_gen.on_command("表情包")
 async def main(bot: Bot, event: Event):
     client = httpx.AsyncClient()
+    at =event.at
     avatar_url = event.sender['avatar']
+    if at:
+        avatar_url = f"http://q1.qlogo.cn/g?b=qq&nk={at}&s=640"
     get_resp = await client.get(avatar_url)
     get_resp.raise_for_status()
     avatar = get_resp.content
     name = event.sender['nickname']
     text = event.text
-    at =event.at
-    if at :
-        avatar =f"http://q1.qlogo.cn/g?b=qq&nk={at}&s=640"
     if text :
         command = text.split(" ")[0]
         prompts =text.split(" ")[-1]
@@ -58,7 +58,7 @@ async def main(bot: Bot, event: Event):
                 else :
                     raise ValueError
             except Exception as e:
-                await bot.send(f"错误:{e}请输入有效的key！{prompts}")
+                await bot.send(f"错误:{e}请输入有效的key！")
         else:
             async with aiofiles.open(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg","rb")as fp:
                 img_bytes = await fp.read()
