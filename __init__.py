@@ -21,7 +21,7 @@ async def main(bot: Bot, event: Event):
     get_resp.raise_for_status()
     avatar = get_resp.content
     name = event.sender['nickname']
-    text = event.text.strip()
+    text = event.text
     if text :
         prompts =text.split(" ")[-1]
         meme_key = ''
