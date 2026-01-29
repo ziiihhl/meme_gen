@@ -32,7 +32,7 @@ async def main(bot: Bot, event: Event):
         else:
             img_bs64 =await convert_img(os.path.dirname(os.path.abspath(__file__)) + "/docs/compressed.jpg",True)
             file_bs64 =img_bs64.replace("base64://",'')
-            message = Message("file",f"帮助.jpg|{file_bs64}")
+            message = Message("text",f"帮助.jpg|{file_bs64}")
             await bot.send(message)
 
 
