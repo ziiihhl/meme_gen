@@ -1,2160 +1,5558 @@
 {
-    "5000choyen": [
-        "5000\u5146"
-    ],
-    "abstinence": [
-        "\u6212\u5bfc"
-    ],
-    "acacia_anan_holdsign": [
-        "\u5b89\u5b89\u4e3e\u724c",
-        "\u590f\u76ee\u5b89\u5b89\u4e3e\u724c"
-    ],
-    "ace_attorney_dialog": [
-        "\u9006\u8f6c\u88c1\u5224\u6c14\u6ce1"
-    ],
-    "acg_entrance": [
-        "\u4e8c\u6b21\u5143\u5165\u53e3"
-    ],
-    "addiction": [
-        "\u4e0a\u763e",
-        "\u6bd2\u763e\u53d1\u4f5c"
-    ],
-    "add_chaos": [
-        "\u6dfb\u4e71",
-        "\u7ed9\u793e\u4f1a\u6dfb\u4e71"
-    ],
-    "admission_letter": [
-        "\u5f55\u53d6\u901a\u77e5\u4e66"
-    ],
-    "adoption": [
-        "\u6536\u517b"
-    ],
-    "aima_say": [
-        "\u827e\u739b\u8bf4",
-        "\u6a31\u7fbd\u827e\u739b\u8bf4"
-    ],
-    "ai_ace": [
-        "AI\u9ad8\u624b",
-        "ai\u9ad8\u624b"
-    ],
-    "alike": [
-        "\u4e00\u6837"
-    ],
-    "alipay": [
-        "\u652f\u4ed8\u5b9d\u652f\u4ed8"
-    ],
-    "allegiance": [
-        "\ucda9\uc131",
-        "\u5fe0\u6a59",
-        "\u656c\u793c"
-    ],
-    "all_the_days": [
-        "\u4e00\u751f\u4e00\u4e16"
-    ],
-    "always": [
-        "\u4e00\u76f4"
-    ],
-    "always_like": [
-        "\u6211\u6c38\u8fdc\u559c\u6b22"
-    ],
-    "anti_kidnap": [
-        "\u9632\u8bf1\u62d0"
-    ],
-    "anya_suki": [
-        "\u963f\u5c3c\u4e9a\u559c\u6b22"
-    ],
-    "anyliew_struggling": [
-        "\u6323\u624e"
-    ],
-    "applaud": [
-        "\u9f13\u638c"
-    ],
-    "arona_throw": [
-        "\u963f\u7f57\u5a1c\u6254"
-    ],
-    "ascension": [
-        "\u5347\u5929"
-    ],
-    "ask": [
-        "\u95ee\u95ee"
-    ],
-    "atri_finger": [
-        "\u4e9a\u6258\u8389\u6307"
-    ],
-    "atri_holdsign": [
-        "\u4e9a\u6258\u8389\u4e3e\u724c"
-    ],
-    "atri_like": [
-        "\u4e9a\u6258\u8389\u559c\u6b22"
-    ],
-    "atri_pillow": [
-        "\u4e9a\u6258\u8389\u6795\u5934"
-    ],
-    "atri_say": [
-        "\u4e9a\u6258\u8389\u8bf4"
-    ],
-    "ayachi_holdsign": [
-        "\u5b81\u5b81\u4e3e\u724c"
-    ],
-    "azur_lane_cheshire_thumbs_up": [
-        "\u67f4\u90e1\u70b9\u8d5e",
-        "\u67f4\u90e1\u732b\u70b9\u8d5e"
-    ],
-    "baby": [
-        "\u5b9d\u5b9d",
-        "BB",
-        "bb",
-        "baby",
-        "Baby"
-    ],
-    "backflip": [
-        "\u540e\u7a7a\u7ffb"
-    ],
-    "back_to_work": [
-        "\u7ee7\u7eed\u5e72\u6d3b",
-        "\u6253\u5de5\u4eba"
-    ],
-    "bad_news": [
-        "\u60b2\u62a5"
-    ],
-    "ba_say": [
-        "ba\u8bf4"
-    ],
-    "beat_head": [
-        "\u62cd\u5934"
-    ],
-    "beat_up": [
-        "\u63cd"
-    ],
-    "begged_me": [
-        "\u6c42\u6211"
-    ],
-    "beg_foster_care": [
-        "\u6c42\u5305\u517b"
-    ],
-    "behind_do": [
-        "\u540e\u6485"
-    ],
-    "beloveds": [
-        "\u631a\u7231"
-    ],
-    "big_eagle_cute_girl": [
-        "\u5927\u5c4c\u840c\u59b9",
-        "\u5927\u540a\u840c\u59b9",
-        "\u5927\u96d5\u840c\u59b9"
-    ],
-    "bird_lgnoring": [
-        "\u4e0d\u9e1f\u4f60",
-        "\u6211\u9e1f\u90fd\u4e0d\u9e1f\u4f60"
-    ],
-    "bite": [
-        "\u5543"
-    ],
-    "blamed_mahiro": [
-        "\u771f\u5bfb\u6328\u9a82"
-    ],
-    "blood_pressure": [
-        "\u9ad8\u8840\u538b"
-    ],
-    "bluearchive": [
-        "\u851a\u84dd\u6863\u6848\u6807\u9898",
-        "batitle"
-    ],
-    "bocchi_draft": [
-        "\u6ce2\u5947\u624b\u7a3f"
-    ],
-    "bonfire_dance": [
-        "\u7bdd\u706b\u821e",
-        "\u5708\u821e"
-    ],
-    "bronya_holdsign": [
-        "\u5e03\u6d1b\u59ae\u5a05\u4e3e\u724c",
-        "\u5927\u9e2d\u9e2d\u4e3e\u724c"
-    ],
-    "bubble_tea": [
-        "\u5976\u8336"
-    ],
-    "bully_me": [
-        "\u6076\u8bed\u76f8\u5411"
-    ],
-    "call_110": [
-        "\u9047\u5230\u56f0\u96be\u8bf7\u62e8\u6253"
-    ],
-    "capoo_draw": [
-        "\u5496\u6ce2\u753b"
-    ],
-    "capoo_fished_out": [
-        "\u5496\u6ce2\u638f"
-    ],
-    "capoo_gothammered": [
-        "\u5496\u6ce2\u88ab\u9524"
-    ],
-    "capoo_lashings": [
-        "\u5496\u6ce2\u6376\u6253",
-        "\u6376\u6253"
-    ],
-    "capoo_point": [
-        "\u5496\u6ce2\u6307"
-    ],
-    "capoo_rip": [
-        "\u5496\u6ce2\u6495"
-    ],
-    "capoo_rub": [
-        "\u5496\u6ce2\u8e6d",
-        "\u5496\u6ce2\u8d34"
-    ],
-    "capoo_say": [
-        "\u5496\u6ce2\u8bf4"
-    ],
-    "capoo_smash_egg": [
-        "\u5496\u6ce2\u7838\u86cb"
-    ],
-    "capoo_stew": [
-        "\u5496\u6ce2\u7096"
-    ],
-    "capoo_strike": [
-        "\u5496\u6ce2\u649e",
-        "\u5496\u6ce2\u5934\u69cc"
-    ],
-    "capoo_take_dump": [
-        "\u5496\u6ce2\u62c9"
-    ],
-    "capoo_take_sleep": [
-        "\u5496\u6ce2\u7761\u89c9",
-        "\u7761\u89c9"
-    ],
-    "capoo_take_smash": [
-        "\u5496\u6ce2\u7838"
-    ],
-    "captain": [
-        "\u8230\u957f"
-    ],
-    "cat_lick": [
-        "\u732b\u8214",
-        "\u732b\u732b\u8214"
-    ],
-    "cat_scratch": [
-        "\u732b\u6293",
-        "\u732b\u732b\u6293"
-    ],
-    "caused_by_this": [
-        "\u8fd9\u4e2a\u5f15\u8d77\u7684"
-    ],
-    "certificate": [
-        "\u5956\u72b6",
-        "\u8bc1\u4e66"
-    ],
-    "charpic": [
-        "\u5b57\u7b26\u753b"
-    ],
-    "chase_train": [
-        "\u8ffd\u5217\u8f66",
-        "\u8ffd\u706b\u8f66"
-    ],
-    "chillet_deer": [
-        "\u75be\u98ce\u9e7f"
-    ],
-    "china_flag": [
-        "\u56fd\u65d7"
-    ],
-    "chino_throw": [
-        "\u667a\u4e43\u6254",
-        "\u667a\u4e43\u629b"
-    ],
-    "christmas_eve": [
-        "\u5e73\u5b89\u591c",
-        "\u5e73\u5b89\u591c\u5feb\u4e50"
-    ],
-    "christmas_gift": [
-        "\u5723\u8bde\u793c\u7269"
-    ],
-    "christmas_hat": [
-        "\u5723\u8bde\u5e3d\u5b50",
-        "\u5723\u8bde\u5e3d"
-    ],
-    "chuanmama": [
-        "\u5ddd\u5988\u5988"
-    ],
-    "chuini": [
-        "\u6376\u4f60"
-    ],
-    "cinderella_eat": [
-        "\u7070\u59d1\u5a18\u5403"
-    ],
-    "clauvio_twist": [
-        "\u9f20\u9f20\u6413"
-    ],
-    "cleverer": [
-        "\u6bd4\u806a\u660e"
-    ],
-    "clown": [
-        "\u5c0f\u4e11"
-    ],
-    "clownish": [
-        "\u6ed1\u7a3d"
-    ],
-    "clown_mask": [
-        "\u5c0f\u4e11\u9762\u5177"
-    ],
-    "cockroaches": [
-        "\u87d1\u8782",
-        "\u5c0f\u5f3a"
-    ],
-    "commemorate": [
-        "\u5960",
-        "\u5bc4"
-    ],
-    "confuse": [
-        "\u8ff7\u60d1"
-    ],
-    "contract": [
-        "\u5356\u8eab\u5951",
-        "\u2b50\ufe0f\ud83d\udca2\u5951\u7ea6",
-        "\u5974\u96b6\u5951\u7ea6"
-    ],
-    "cooking": [
-        "\u7092\u83dc"
-    ],
-    "coupon": [
-        "\u5151\u6362\u5238"
-    ],
-    "cover_face": [
-        "\u6342\u8138"
-    ],
-    "crawl": [
-        "\u722c"
-    ],
-    "cyan": [
-        "\u7fa4\u9752"
-    ],
-    "dalia_everyone": [
-        "\u6240\u6709\u4eba"
-    ],
-    "daynight": [
-        "\u767d\u5929\u9ed1\u591c",
-        "\u767d\u5929\u665a\u4e0a"
-    ],
-    "decent_kiss": [
-        "\u50cf\u6837\u7684\u4eb2\u4eb2"
-    ],
-    "deer_help": [
-        "\u5e2e\u9e7f",
-        "\u5e2e\ud83e\udd8c"
-    ],
-    "deer_plan": [
-        "\u9e7f\u7ba1\u8ba1\u5212"
-    ],
-    "deer_time": [
-        "\u9e7f\u7ba1\u65f6\u95f4"
-    ],
-    "dianzhongdian": [
-        "\u5165\u5178",
-        "\u5178\u4e2d\u5178",
-        "\u9ed1\u767d\u8349\u56fe"
-    ],
-    "dinosaur": [
-        "\u6050\u9f99",
-        "\u5c0f\u6050\u9f99"
-    ],
-    "dinosaur_head": [
-        "\u6050\u9f99\u5934"
-    ],
-    "distracted": [
-        "\u6ce8\u610f\u529b\u6da3\u6563"
-    ],
-    "divorce": [
-        "\u79bb\u5a5a\u534f\u8bae",
-        "\u79bb\u5a5a\u7533\u8bf7"
-    ],
-    "dog_dislike": [
-        "\u72d7\u90fd\u4e0d\u73a9"
-    ],
-    "dog_ear_hat": [
-        "\u72d7\u8033\u5e3d",
-        "\u72d7\u5e3d"
-    ],
-    "dog_girl": [
-        "\u72d7\u59b9"
-    ],
-    "dog_of_vtb": [
-        "\u7ba1\u4eba\u75f4"
-    ],
-    "dont_go_near": [
-        "\u4e0d\u8981\u9760\u8fd1"
-    ],
-    "dont_press": [
-        "\u4e0d\u8981\u6309"
-    ],
-    "dont_touch": [
-        "\u522b\u78b0"
-    ],
-    "doro_banging": [
-        "doro\u6572",
-        "Doro\u6572",
-        "\u6843\u4e50\u4e1d\u6572"
-    ],
-    "doro_chasing": [
-        "doro\u8ffd",
-        "Doro\u8ffd",
-        "\u6843\u4e50\u4e1d\u8ffd"
-    ],
-    "doro_contact": [
-        "\u4ea4\u5f80",
-        "doro\u4ea4\u5f80",
-        "Doro\u4ea4\u5f80",
-        "DORO\u4ea4\u5f80",
-        "\u6843\u4e50\u4e1d\u4ea4\u5f80"
-    ],
-    "doro_dear": [
-        "\u6700\u7231",
-        "doro\u6700\u7231",
-        "Doro\u6700\u7231",
-        "DORO\u6700\u7231",
-        "\u6843\u4e50\u4e1d\u6700\u7231"
-    ],
-    "doro_do": [
-        "doro\u6485",
-        "Doro\u6485",
-        "\u6843\u4e50\u4e1d\u6485"
-    ],
-    "doro_kiss": [
-        "\u6843\u4e50\u4e1d\u4eb2",
-        "Doro\u4eb2",
-        "doro\u4eb2"
-    ],
-    "doro_knight": [
-        "\u9a91\u58eb",
-        "doro\u9a91\u58eb",
-        "Doro\u9a91\u58eb",
-        "DORO\u9a91\u58eb"
-    ],
-    "doro_lick": [
-        "\u6843\u4e50\u4e1d\u8214",
-        "doro\u8214",
-        "Doro\u8214",
-        "DORO\u8214"
-    ],
-    "doro_openlight": [
-        "\u5f00\u706f",
-        "\u6843\u4e50\u4e1d\u5f00\u706f",
-        "doro\u5f00\u706f",
-        "Doro\u5f00\u706f",
-        "DORO\u5f00\u706f"
-    ],
-    "doro_orange": [
-        "\u6b27\u6da6\u5409",
-        "\u6da6\u5409",
-        "\u6da6\u6a58",
-        "\u6a58\u5b50",
-        "\u6a58",
-        "\ud83c\udf4a"
-    ],
-    "doro_stroke": [
-        "\u629a\u6478",
-        "doro\u629a\u6478",
-        "Doro\u629a\u6478",
-        "\u6843\u4e50\u4e1d\u629a\u6478"
-    ],
-    "doro_surrounding_photos": [
-        "\u5468\u8fb9\u5199\u771f"
-    ],
-    "doro_thumbs_up": [
-        "doro\u70b9\u8d5e",
-        "Doro\u70b9\u8d5e",
-        "DORO\u70b9\u8d5e",
-        "\u6843\u4e50\u4e1d\u70b9\u8d5e"
-    ],
-    "doro_trampoline": [
-        "\u8df3\u5e8a",
-        "\u8e66\u5e8a",
-        "doro\u8e66\u5e8a",
-        "\u6843\u4e50\u4e1d\u8e66\u5e8a",
-        "doro\u8df3\u5e8a",
-        "\u6843\u4e50\u4e1d\u8df3\u5e8a"
-    ],
-    "doro_work_for_you": [
-        "\u4e3a\u4f60\u6253\u5de5"
-    ],
-    "douyin": [
-        "douyin"
-    ],
-    "dragon_hand": [
-        "\u9f99\u624b"
-    ],
-    "drumstick": [
-        "\ud83c\udf57",
-        "\u9e21\u817f"
-    ],
-    "duidi": [
-        "\u603c\u5730",
-        "\u603c"
-    ],
-    "durian": [
-        "\u69b4\u83b2"
-    ],
-    "eat": [
-        "\u5403"
-    ],
-    "emperor_dragon": [
-        "\u7687\u5e1d\u9f99\u56fe"
-    ],
-    "erised_mirror": [
-        "\u610f\u82e5\u601d\u955c"
-    ],
-    "estrous": [
-        "\u53d1\u60c5"
-    ],
-    "fade_away": [
-        "\u7070\u98de\u70df\u706d"
-    ],
-    "family_know": [
-        "\u5bb6\u4eba\u4eec\u8c01\u61c2\u554a"
-    ],
-    "fanatic": [
-        "\u72c2\u7231",
-        "\u72c2\u7c89"
-    ],
-    "fart": [
-        "\u653e\u5c41"
-    ],
-    "father_work": [
-        "\u95ed\u5634",
-        "\u6211\u7238\u7238"
-    ],
-    "fbi_photo": [
-        "fbi",
-        "FBI"
-    ],
-    "fencing": [
-        "\u51fb\u5251",
-        "\ud83e\udd3a"
-    ],
-    "fever": [
-        "\u4e3a\u7231\u53d1\u70e7",
-        "\u53d1\u70e7"
-    ],
-    "fight_with_sunuo": [
-        "\u6211\u6253\u5bbf\u50a9",
-        "\u6211\u6253\u5bbf\u50a9\u5417"
-    ],
-    "fill_head": [
-        "\u6ee1\u8111\u5b50"
-    ],
-    "find_chips": [
-        "\u6574\u70b9\u85af\u6761"
-    ],
-    "finger": [
-        "\u6307"
-    ],
-    "firefly_holdsign": [
-        "\u6d41\u8424\u4e3e\u724c"
-    ],
-    "fireworks_head": [
-        "\u70df\u82b1\u5934\u50cf"
-    ],
-    "fishing": [
-        "\u9493\u9c7c"
-    ],
-    "flash_blind": [
-        "\u95ea\u778e"
-    ],
-    "fleshlight_air_play": [
-        "\u7a7a\u6c14\u73a9\u6cd5"
-    ],
-    "fleshlight_angel": [
-        "\u5929\u4f7f\u5fc3"
-    ],
-    "fleshlight_cleaning_liquid": [
-        "\u6e05\u6d17\u6db2"
-    ],
-    "fleshlight_commemorative_edition_saint_sister": [
-        "\u7eaa\u5ff5\u7248\u5723\u4fee\u5973"
-    ],
-    "fleshlight_hoshino_alice": [
-        "\u5566\u5566\u961f\u5076\u50cf",
-        "\u62c9\u62c9\u961f\u5076\u50cf"
-    ],
-    "fleshlight_idol_heartbeat": [
-        "\u5076\u50cf\u5fc3\u8df3"
-    ],
-    "fleshlight_jissbon": [
-        "\u6770\u58eb\u90a6"
-    ],
-    "fleshlight_kuileishushi": [
-        "\u767d\u4e1d\u58c1\u5973"
-    ],
-    "fleshlight_limited_edition_saint_sister": [
-        "\u9650\u5b9a\u7248\u5723\u4fee\u5973"
-    ],
-    "fleshlight_liuli_zi": [
-        "\u7409\u7483\u5b50"
-    ],
-    "fleshlight_machinery": [
-        "\u673a\u68b0\u9f99\u5973",
-        "\u673a\u68b0\u9f99\u5973EVA",
-        "\u673a\u68b0\u9f99\u5973eva"
-    ],
-    "fleshlight_mengxin_packs": [
-        "\u840c\u65b0\u793c\u5305"
-    ],
-    "fleshlight_miyuko_kamimiya": [
-        "\u795e\u5bab\u7f8e\u4f18\u5b50"
-    ],
-    "fleshlight_mizuki_shiranui": [
-        "\u6c34\u57ce\u4e0d\u77e5\u706b"
-    ],
-    "fleshlight_nrn": [
-        "\u4e73\u5165\u5a18"
-    ],
-    "fleshlight_pure_buttocks": [
-        "\u7eaf\u6d01\u81c0"
-    ],
-    "fleshlight_purple_spirit": [
-        "\u7d2b\u57df\u7cbe\u7075"
-    ],
-    "fleshlight_qiaobenyouxi": [
-        "\u6865\u672c\u53cb\u5e0c"
-    ],
-    "fleshlight_random": [
-        "\u968f\u673a\u676f\u5b50"
-    ],
-    "fleshlight_saint_sister": [
-        "\u5723\u4fee\u5973"
-    ],
-    "fleshlight_saki_haruna": [
-        "\u6625\u5948\u7eb1\u5e0c"
-    ],
-    "fleshlight_selena": [
-        "\u9b54\u5973\u4e4b\u68ee"
-    ],
-    "fleshlight_starter_pack": [
-        "\u65b0\u624b\u793c\u5305"
-    ],
-    "fleshlight_summer_liuli_zi": [
-        "\u590f\u65e5\u7409\u7483\u5b50"
-    ],
-    "fleshlight_taimanin_asgi": [
-        "\u5bf9\u9b54\u5fcd"
-    ],
-    "fleshlight_xingnai": [
-        "\u674f\u5948"
-    ],
-    "flick": [
-        "\u5f39",
-        "\u8111\u74dc\u5d29"
-    ],
-    "flush": [
-        "\u7ea2\u6e29"
-    ],
-    "fogging": [
-        "\u56de\u5357\u5929",
-        "\u6c34\u96fe"
-    ],
-    "follow": [
-        "\u5173\u6ce8"
-    ],
-    "frieren_snuggle": [
-        "\u8299\u8389\u83b2\u8d34\u8d34"
-    ],
-    "frieren_take": [
-        "\u8299\u8389\u83b2\u62ff"
-    ],
-    "funny_mirror": [
-        "\u54c8\u54c8\u955c"
-    ],
-    "garbage": [
-        "\u5783\u573e",
-        "\u5783\u573e\u6876"
-    ],
-    "genshin_eat": [
-        "\u539f\u795e\u5403"
-    ],
-    "genshin_start": [
-        "\u539f\u795e\u542f\u52a8"
-    ],
-    "gif_subtitle": [],
-    "gong_xi_fa_cai": [
-        "\u606d\u559c\u53d1\u8d22"
-    ],
-    "good_news": [
-        "\u559c\u62a5"
-    ],
-    "google": [
-        "google"
-    ],
-    "google_captcha": [
-        "\u8c37\u6b4c\u9a8c\u8bc1\u7801"
-    ],
-    "gorilla_throw": [
-        "\u7329\u7329\u6254"
-    ],
-    "guichu": [
-        "\u9b3c\u755c"
-    ],
-    "gun": [
-        "\u624b\u67aa"
-    ],
-    "hammer": [
-        "\u9524"
-    ],
-    "handwriting": [
-        "\u624b\u5199"
-    ],
-    "happy_mid_autumn_festival": [
-        "\u4e2d\u79cb\u5feb\u4e50",
-        "\u4e2d\u79cb\u8282\u5feb\u4e50"
-    ],
-    "happy_national_day": [
-        "\u56fd\u5e86\u5feb\u4e50",
-        "\u56fd\u5e86\u8282\u5feb\u4e50"
-    ],
-    "happy_new_year": [
-        "\u65b0\u5e74\u597d"
-    ],
-    "haruhi_raise": [
-        "\u51c9\u5bab\u6625\u65e5\u4e3e"
-    ],
-    "heartbeat": [
-        "\u5fc3\u8df3"
-    ],
-    "high_EQ": [
-        "\u9ad8\u4f4e\u60c5\u5546",
-        "\u4f4e\u9ad8\u60c5\u5546"
-    ],
-    "hitachi_mako_together": [
-        "\u548c\u5979\u5728\u4e00\u8d77"
-    ],
-    "hit_screen": [
-        "\u6253\u7a7f",
-        "\u6253\u7a7f\u5c4f\u5e55"
-    ],
-    "hold_grudge": [
-        "\u8bb0\u4ec7"
-    ],
-    "hold_tight": [
-        "\u62b1\u7d27"
-    ],
-    "horse_riding": [
-        "\u9a91\u9a6c"
-    ],
-    "hug": [
-        "\u62b1",
-        "\u62b1\u62b1"
-    ],
-    "hug_leg": [
-        "\u62b1\u5927\u817f"
-    ],
-    "huochailu": [
-        "\u706b\u67f4\u64b8"
-    ],
-    "hutao_bite": [
-        "\u80e1\u6843\u5543"
-    ],
-    "ice_tea_head": [
-        "\u51b0\u7ea2\u8336"
-    ],
-    "ignite": [
-        "\u71c3\u8d77\u6765\u4e86"
-    ],
-    "ikun_basketball": [
-        "\u7bee\u7403",
-        "\ud83c\udfc0"
-    ],
-    "ikun_durian_head": [
-        "\u69b4\u83b2\u5764\u5934"
-    ],
-    "ikun_elastic": [
-        "\u5f39\u5764"
-    ],
-    "ikun_head": [
-        "\u5c0f\u9ed1\u5b50"
-    ],
-    "ikun_kfc": [
-        "\u80af\u5fb7\u5764"
-    ],
-    "ikun_like": [
-        "\u5764\u5764\u559c\u6b22"
-    ],
-    "ikun_need_tv": [
-        "\u5764\u5764\u60f3\u8981"
-    ],
-    "ikun_why_are_you": [
-        "\u4f60\u5e72\u561b",
-        "\u4f60\u5e72\u5417"
-    ],
-    "imprison": [
-        "\u5750\u7262"
-    ],
-    "incivilization": [
-        "\u4e0d\u6587\u660e"
-    ],
-    "intel_inside": [
-        "inside"
-    ],
-    "interview": [
-        "\u91c7\u8bbf"
-    ],
-    "izumi_sagiri_painting": [
-        "\u548c\u6cc9\u7eb1\u96fe\u753b\u753b"
-    ],
-    "jd_delivery_person": [
-        "\u4eac\u4e1c\u5916\u5356\u9a91\u624b",
-        "\u4eac\u4e1c\u5916\u5356\u5de5\u724c"
-    ],
-    "jd_takeout": [
-        "\u4eac\u4e1c\u5916\u5356"
-    ],
-    "jerry_stare": [
-        "\u6770\u745e\u76ef"
-    ],
-    "jiji_king": [
-        "\u6025\u6025\u56fd\u738b"
-    ],
-    "jinhsi": [
-        "\u6c50\u6c50",
-        "\u4eca\u6c50"
-    ],
-    "jiubingfufa": [
-        "\u65e7\u75c5\u590d\u53d1"
-    ],
-    "jiujiu": [
-        "\u557e\u557e"
-    ],
-    "jump": [
-        "\u8df3"
-    ],
-    "kaleidoscope": [
-        "\u4e07\u82b1\u7b52",
-        "\u4e07\u82b1\u955c"
-    ],
-    "karyl_point": [
-        "\u51ef\u9732\u6307"
-    ],
-    "keep_away": [
-        "\u8fdc\u79bb"
-    ],
-    "keep_your_money": [
-        "\u538b\u5c81\u94b1\u4e0d\u8981\u4ea4\u7ed9"
-    ],
-    "kfc": [
-        "kfc",
-        "KFC",
-        "\u80af\u5fb7\u57fa"
-    ],
-    "kfc_thursday": [
-        "\u661f\u671f\u56db",
-        "\u75af\u72c2\u661f\u671f\u56db"
-    ],
-    "kick_ball": [
-        "\u8e22\u7403"
-    ],
-    "kirby_hammer": [
-        "\u5361\u6bd4\u9524",
-        "\u5361\u6bd4\u91cd\u9524"
-    ],
-    "kiss": [
-        "\u4eb2",
-        "\u4eb2\u4eb2"
-    ],
-    "klee_eat": [
-        "\u53ef\u8389\u5403"
-    ],
-    "knock": [
-        "\u6572"
-    ],
-    "kokona_seal": [
-        "\u5fc3\u5948\u5370\u7ae0"
-    ],
-    "konata_watch": [
-        "\u6cc9\u6b64\u65b9\u770b"
-    ],
-    "kurogames_abby_eat": [
-        "\u963f\u5e03\u5403"
-    ],
-    "kurogames_abby_lift_high": [
-        "\u4e3e\u9ad8\u9ad8"
-    ],
-    "kurogames_abby_rub": [
-        "\u963f\u5e03\u8d34\u8d34"
-    ],
-    "kurogames_abby_solace": [
-        "\u5b89\u6170",
-        "\u963f\u5e03\u5b89\u6170"
-    ],
-    "kurogames_abby_weeping": [
-        "\u62b1\u5934\u75db\u54ed"
-    ],
-    "kurogames_abby_write": [
-        "\u963f\u5e03\u5199\u4fe1"
-    ],
-    "kurogames_camellya_holdsign": [
-        "\u5927\u50bb\u693f\u4e3e\u724c",
-        "\u50bb\u693f\u4e3e\u724c"
-    ],
-    "kurogames_camellya_photo": [
-        "\u5927\u50bb\u693f\u7167\u7247",
-        "\u50bb\u693f\u7167\u7247"
-    ],
-    "kurogames_camellya_red_hug": [
-        "\u7ea2\u693f\u62b1"
-    ],
-    "kurogames_carlotta_holdsign": [
-        "\u73c2\u83b1\u5854\u4e3e\u724c"
-    ],
-    "kurogames_carlotta_play": [
-        "\u4e00\u8fb9\u73a9\u53bb\u5427",
-        "\u4e00\u8fb9\u73a9\u53bb"
-    ],
-    "kurogames_cartethyia_feetup": [
-        "\u5361\u63d0\u5e0c\u5a05\u62ac\u811a",
-        "\u5361\u63d0\u62ac\u811a"
-    ],
-    "kurogames_cartethyia_holdsign": [
-        "\u5361\u63d0\u4e3e\u724c",
-        "\u5361\u63d0\u5e0c\u5a05\u4e3e\u724c",
-        "\u5361\u63d0\u897f\u4e9a\u4e3e\u724c"
-    ],
-    "kurogames_cartethyia_say": [
-        "\u5361\u63d0\u8bf4",
-        "\u5361\u63d0\u5e0c\u5a05\u8bf4"
-    ],
-    "kurogames_changli_finger": [
-        "\u957f\u79bb\u6307"
-    ],
-    "kurogames_changli_holdsign": [
-        "\u957f\u79bb\u4e3e\u724c"
-    ],
-    "kurogames_chisa_kick": [
-        "\u5343\u54b2\u8e22"
-    ],
-    "kurogames_chisa_say": [
-        "\u5343\u54b2\u8bf4"
-    ],
-    "kurogames_good_night": [
-        "\u665a\u5b89"
-    ],
-    "kurogames_gugu_blowfish_small_classes": [
-        "\u5495\u5495\u6cb3\u8c5a\u5c0f\u8bfe\u5802",
-        "\u5c0f\u8bfe\u5802"
-    ],
-    "kurogames_iuno_holdsign": [
-        "\u5c24\u8bfa\u4e3e\u724c"
-    ],
-    "kurogames_iuno_hug": [
-        "\u5c24\u8bfa\u62b1"
-    ],
-    "kurogames_iuno_kick": [
-        "\u5c24\u8bfa\u8e22",
-        "\u4f18\u8bfa\u8e22"
-    ],
-    "kurogames_iuno_peeking": [
-        "\u5c24\u8bfa\u63a2\u5934"
-    ],
-    "kurogames_iuno_play": [
-        "\u5c24\u8bfa\u73a9",
-        "\u4f18\u8bfa\u73a9"
-    ],
-    "kurogames_iuno_say": [
-        "\u5c24\u8bfa\u8bf4"
-    ],
-    "kurogames_jinhsi_eat": [
-        "\u4eca\u6c50\u5403"
-    ],
-    "kurogames_jinhsi_sit": [
-        "\u4eca\u6c50\u5750"
-    ],
-    "kurogames_jinhsi_steamed_buns": [
-        "\u4eca\u6c50\u5c0f\u7b3c\u5305"
-    ],
-    "kurogames_jiyan_holdsign": [
-        "\u5fcc\u708e\u4e3e\u724c"
-    ],
-    "kurogames_lingyang_holdsign": [
-        "\u51cc\u9633\u4e3e\u724c",
-        "\u96ea\u8c79\u4e3e\u724c"
-    ],
-    "kurogames_lupa_eat": [
-        "\u9732\u5e15\u5403"
-    ],
-    "kurogames_lupa_holdsign": [
-        "\u9732\u5e15\u4e3e\u724c"
-    ],
-    "kurogames_lupa_photo": [
-        "\u9732\u5e15\u7167\u7247"
-    ],
-    "kurogames_mornye_raise": [
-        "\u83ab\u5b81\u4e3e"
-    ],
-    "kurogames_mortefi_holdsign": [
-        "\u83ab\u7279\u6590\u4e3e\u724c"
-    ],
-    "kurogames_mp": [
-        "\u9e23\u6279",
-        "\u9e23P",
-        "\u9e23p",
-        "\u9e23\u6f6e\u73a9\u5bb6",
-        "\u9e23\u6f6e\u7537"
-    ],
-    "kurogames_nsfw_verina_holdsign": [
-        "\u745f\u745f\u7ef4\u91cc\u5948\u4e3e\u724c"
-    ],
-    "kurogames_orang": [
-        "\u98de\u5ec9\u4e4b\u7329"
-    ],
-    "kurogames_phoebe_ score_sheet": [
-        "\u83f2\u6bd4\u8bc4\u5206\u8868",
-        "\u8bc4\u5206\u8868"
-    ],
-    "kurogames_phoebe_haha": [
-        "\u54c8\u54c8",
-        "\u83f2\u6bd4\u54c8\u54c8"
-    ],
-    "kurogames_phoebe_holdsign": [
-        "\u83f2\u6bd4\u4e3e\u724c"
-    ],
-    "kurogames_phoebe_hug": [
-        "\u83f2\u6bd4\u62b1"
-    ],
-    "kurogames_phoebe_say": [
-        "\u83f2\u6bd4\u8bf4"
-    ],
-    "kurogames_phoebe_trumpet": [
-        "\u83f2\u6bd4\u5587\u53ed"
-    ],
-    "kurogames_phrolova_boxer": [
-        "\u5f17\u6d1b\u6d1b\u62f3\u51fb"
-    ],
-    "kurogames_phrolova_eat": [
-        "\u5f17\u6d1b\u6d1b\u5403"
-    ],
-    "kurogames_phrolova_holdsign": [
-        "\u5f17\u6d1b\u6d1b\u4e3e\u724c"
-    ],
-    "kurogames_phrolova_say": [
-        "\u5f17\u6d1b\u6d1b\u8bf4"
-    ],
-    "kurogames_roccia_holdsign": [
-        "\u6d1b\u53ef\u53ef\u4e3e\u724c"
-    ],
-    "kurogames_rover_cards": [
-        "\u8363\u8000\u4e4b\u4e18"
-    ],
-    "kurogames_rover_head": [
-        "\u6f02\u6cca\u8005\u5934\u50cf\u6846"
-    ],
-    "kurogames_rover_holdsign": [
-        "\u6f02\u6cca\u8005\u4e3e\u724c"
-    ],
-    "kurogames_rover_lick": [
-        "\u6f02\u6cca\u8005\u8214"
-    ],
-    "kurogames_songlun_dinner": [
-        "\u677e\u4f26\u665a\u9910",
-        "\u677e\u4f26\u54e5\u665a\u9910"
-    ],
-    "kurogames_songlun_finger": [
-        "\u677e\u4f26\u6307",
-        "\u6f6e\u6279"
-    ],
-    "kurogames_songlun_holdsign": [
-        "\u674e\u677e\u4f26\u4e3e\u724c",
-        "\u677e\u4f26\u4e3e\u724c",
-        "\u677e\u4f26\u54e5\u4e3e\u724c"
-    ],
-    "kurogames_songlun_ridiculed": [
-        "\u677e\u4f26\u7b11"
-    ],
-    "kurogames_songlun_say": [
-        "\u96be\u9053\u8bf4",
-        "\u677e\u4f26\u8bf4"
-    ],
-    "kurogames_the_shorekeeper_holdsign": [
-        "\u5b88\u5cb8\u4eba\u4e3e\u724c"
-    ],
-    "kurogames_verina_finger": [
-        "\u7ef4\u91cc\u5948\u6307",
-        "\u5c0f\u7ef4\u6307"
-    ],
-    "kurogames_verina_group_photo": [
-        "\u548c\u7ef4\u91cc\u5948\u5408\u5f71"
-    ],
-    "kurogames_verina_holdsign": [
-        "\u5c0f\u7ef4\u4e3e\u724c",
-        "\u7ef4\u91cc\u5948\u4e3e\u724c"
-    ],
-    "kurogames_verina_say": [
-        "\u5c0f\u7ef4\u8bf4",
-        "\u7ef4\u91cc\u5948\u8bf4"
-    ],
-    "kurogames_yangyang_holdsign": [
-        "\u79e7\u79e7\u4e3e\u724c"
-    ],
-    "kurogames_yangyang_love": [
-        "\u79e7\u79e7\u6bd4\u5fc3"
-    ],
-    "kurogames_yangyang_lover": [
-        "\u79e7\u79e7\u8001\u516c"
-    ],
-    "kurogames_zani_aloft": [
-        "\u8d5e\u59ae\u4e3e"
-    ],
-    "kurogames_zhezhi_draw": [
-        "\u6298\u679d\u753b\u753b",
-        "\u6298\u679d\u7ed8\u753b"
-    ],
-    "kurogames_zhezhi_holdsign": [
-        "\u6298\u679d\u4e3e\u724c"
-    ],
-    "laughing": [
-        "\u7b11\u6307"
-    ],
-    "laydown_do": [
-        "\u8eba\u6485"
-    ],
-    "learn": [
-        "\u5077\u5b66"
-    ],
-    "left_right_jump": [
-        "\u5de6\u53f3\u6a2a\u8df3"
-    ],
-    "lemon": [
-        "\u67e0\u6aac"
-    ],
-    "let_me_in": [
-        "\u8ba9\u6211\u8fdb\u53bb"
-    ],
-    "lick_candy": [
-        "\u8214\u7cd6",
-        "\u8214\u68d2\u68d2\u7cd6"
-    ],
-    "lim_x_0": [
-        "\u7b49\u4ef7\u65e0\u7a77\u5c0f"
-    ],
-    "listen_music": [
-        "\u542c\u97f3\u4e50"
-    ],
-    "little_angel": [
-        "\u5c0f\u5929\u4f7f"
-    ],
-    "loading": [
-        "\u52a0\u8f7d\u4e2d"
-    ],
-    "lochi_mari_play": [
-        "\u739b\u4e3d\u73a9",
-        "\u4f0a\u843d\u739b\u4e3d\u73a9"
-    ],
-    "look_flat": [
-        "\u770b\u6241"
-    ],
-    "look_leg": [
-        "\u770b\u770b\u817f",
-        "\u770b\u770b\u811a"
-    ],
-    "look_this_icon": [
-        "\u770b\u56fe\u6807"
-    ],
-    "loop": [
-        "\u5faa\u73af"
-    ],
-    "lost_dog": [
-        "\u5bfb\u72d7\u542f\u4e8b"
-    ],
-    "louvre": [
-        "\u5362\u6d6e\u5bab"
-    ],
-    "love_you": [
-        "\u6c38\u8fdc\u7231\u4f60"
-    ],
-    "luotianyi_need": [
-        "\u6d1b\u5929\u4f9d\u8981",
-        "\u5929\u4f9d\u8981"
-    ],
-    "luotianyi_say": [
-        "\u6d1b\u5929\u4f9d\u8bf4",
-        "\u5929\u4f9d\u8bf4"
-    ],
-    "luoyonghao_say": [
-        "\u7f57\u6c38\u6d69\u8bf4"
-    ],
-    "luxun_say": [
-        "\u9c81\u8fc5\u8bf4",
-        "\u9c81\u8fc5\u8bf4\u8fc7"
-    ],
-    "ly01": [
-        "ly01",
-        "ly-1",
-        "LY-1"
-    ],
-    "mahiro_fuck": [
-        "\u771f\u5bfb\u4e2d\u6307",
-        "\u4e2d\u6307",
-        "\ud83d\udd95\ud83c\udffb"
-    ],
-    "mahiro_readbook": [
-        "\u771f\u5bfb\u770b\u4e66"
-    ],
-    "maimai_awaken": [
-        "\u65c5\u884c\u4f19\u4f34\u89c9\u9192"
-    ],
-    "maimai_join": [
-        "\u65c5\u884c\u4f19\u4f34\u52a0\u5165"
-    ],
-    "make_friend": [
-        "\u4ea4\u4e2a\u670b\u53cb"
-    ],
-    "marriage": [
-        "\u7ed3\u5a5a\u7533\u8bf7",
-        "\u7ed3\u5a5a\u767b\u8bb0"
-    ],
-    "masturbate": [
-        "\u5bfc",
-        "\u6253\u98de\u673a"
-    ],
-    "merry_christmas": [
-        "\u5723\u8bde\u5feb\u4e50",
-        "\u5723\u8bde\u8282\u5feb\u4e50"
-    ],
-    "meteor": [
-        "\u6d41\u661f"
-    ],
-    "mihoyo": [
-        "\u7c73\u54c8\u6e38"
-    ],
-    "mihoyo_aino_ride": [
-        "\u7231\u8bfa\u9a91"
-    ],
-    "mihoyo_amber_frame": [
-        "\u5b89\u67cf\u76f8\u6846"
-    ],
-    "mihoyo_bailu_kick": [
-        "\u767d\u9732\u8e22"
-    ],
-    "mihoyo_barbara_pegg_frame": [
-        "\u82ad\u82ad\u62c9\u76f8\u6846"
-    ],
-    "mihoyo_barbatos_frame": [
-        "\u5df4\u5df4\u6258\u65af",
-        "\u98ce\u795e\u76f8\u6846"
-    ],
-    "mihoyo_caribert_alberich_frame": [
-        "\u5361\u5229\u8d1d\u5c14\u76f8\u6846"
-    ],
-    "mihoyo_chasca_frame": [
-        "\u6070\u65af\u5361\u76f8\u6846"
-    ],
-    "mihoyo_citlali_frame": [
-        "\u831c\u7279\u83c8\u8389\u76f8\u6846",
-        "\u5976\u5976\u76f8\u6846"
-    ],
-    "mihoyo_columbina_hug": [
-        "\u5c11\u5973\u62b1",
-        "\u54e5\u4f26\u6bd4\u5a05\u62b1",
-        "\u6708\u795e\u62b1"
-    ],
-    "mihoyo_columbina_jade_feet": [
-        "\u7389\u8db3"
-    ],
-    "mihoyo_duantou": [
-        "\u65ad\u5934",
-        "\u65ad\u5934\u53f0",
-        "\u7f6a\u4eba\u821e\u6b65\u65cb"
-    ],
-    "mihoyo_editorial_society_frame": [
-        "\u7f16\u8f91\u534f\u4f1a\u76f8\u6846"
-    ],
-    "mihoyo_elysia_come": [
-        "\u7231\u8389\u5e0c\u96c5\u964d\u4e34"
-    ],
-    "mihoyo_funina_card": [
-        "\u8299\u8299\u5361\u7247",
-        "\u8299\u5b81\u5a1c\u5361\u7247",
-        "\u8299\u8299\u9171\u5361\u7247"
-    ],
-    "mihoyo_funina_death_penalty": [
-        "\u6b7b\u5211"
-    ],
-    "mihoyo_funina_finger": [
-        "\u8299\u8299\u6307",
-        "\u8299\u5b81\u5a1c\u6307",
-        "\u8299\u8299\u9171\u6307"
-    ],
-    "mihoyo_funina_holdsign": [
-        "\u8299\u5b81\u5a1c\u4e3e\u724c",
-        "\u8299\u8299\u4e3e\u724c",
-        "\u8299\u8299\u9171\u4e3e\u724c"
-    ],
-    "mihoyo_funina_round_head": [
-        "\u8299\u8299\u5706\u5f62\u5934\u50cf",
-        "\u8299\u5b81\u5a1c\u5706\u5f62\u5934\u50cf"
-    ],
-    "mihoyo_funina_square_head": [
-        "\u8299\u8299\u65b9\u5f62\u5934\u50cf",
-        "\u8299\u5b81\u5a1c\u65b9\u5f62\u5934\u50cf"
-    ],
-    "mihoyo_gemini_frame": [
-        "\u53cc\u5b50\u76f8\u6846"
-    ],
-    "mihoyo_genshin_impact_op": [
-        "OP",
-        "op",
-        "Op",
-        "oP"
-    ],
-    "mihoyo_genshin_impact_players": [
-        "\u539f\u6279",
-        "\u539f\u795e\u73a9\u5bb6"
-    ],
-    "mihoyo_guoba_frame": [
-        "\u9505\u5df4\u76f8\u6846"
-    ],
-    "mihoyo_hilichurl_frame": [
-        "\u4e18\u4e18\u4eba\u76f8\u6846"
-    ],
-    "mihoyo_hutao_frame": [
-        "\u80e1\u6843\u76f8\u6846"
-    ],
-    "mihoyo_hutao_holdsign": [
-        "\u80e1\u6843\u4e3e\u724c"
-    ],
-    "mihoyo_ineffa_droid": [
-        "\u4eba\u673a"
-    ],
-    "mihoyo_kaveh_frame": [
-        "\u5361\u7ef4\u76f8\u6846"
-    ],
-    "mihoyo_keqing_pointo": [
-        "\u523b\u6674\u6307"
-    ],
-    "mihoyo_kirara_delivery": [
-        "\u7eee\u826f\u826f\u6d3e\u9001",
-        "\u6d3e\u9001"
-    ],
-    "mihoyo_klee_duduke_frame": [
-        "\u53ef\u8389\u561f\u561f\u53ef\u76f8\u6846",
-        "\u561f\u561f\u53ef"
-    ],
-    "mihoyo_klee_frame": [
-        "\u53ef\u8389\u76f8\u6846"
-    ],
-    "mihoyo_klee_hat_frame": [
-        "\u53ef\u8389\u5e3d\u5b50\u76f8\u6846"
-    ],
-    "mihoyo_kujou_sara_frame": [
-        "\u4e5d\u6761\u88df\u7f57\u76f8\u6846"
-    ],
-    "mihoyo_kuki_shinobu_frame": [
-        "\u4e45\u5c90\u5fcd\u76f8\u6846",
-        "\u963f\u5fcd\u76f8\u6846"
-    ],
-    "mihoyo_kuki_shinobu_who": [
-        "\u6b64\u4eba\u662f\u8c01",
-        "\u662f\u8c01",
-        "\u662f\u8c01\uff1f",
-        "\u662f\u8c01\uff1f"
-    ],
-    "mihoyo_lce_slime_frame": [
-        "\u51b0\u53f2\u83b1\u59c6\u76f8\u6846"
-    ],
-    "mihoyo_liuwei_dinner": [
-        "\u5218\u4f1f\u665a\u9910",
-        "\u5171\u8fdb\u665a\u9910",
-        "\u5927\u4f1f\u54e5\u665a\u9910"
-    ],
-    "mihoyo_liuwei_holdsign": [
-        "\u5218\u4f1f\u4e3e\u724c",
-        "\u5927\u4f1f\u4e3e\u724c",
-        "\u5927\u4f1f\u54e5\u4e3e\u724c"
-    ],
-    "mihoyo_liuwei_noise": [
-        "\u58f0\u97f3",
-        "\u5c16\u9510\u7684\u58f0\u97f3"
-    ],
-    "mihoyo_liuwei_say": [
-        "\u5218\u4f1f\u8bf4",
-        "\u5927\u4f1f\u8bf4",
-        "\u5927\u4f1f\u54e5\u8bf4"
-    ],
-    "mihoyo_lynette_holdsign": [
-        "\u7433\u59ae\u7279\u4e3e\u724c"
-    ],
-    "mihoyo_navia_caspar_persuade": [
-        "\u8bf4\u670d"
-    ],
-    "mihoyo_neuvillette_say": [
-        "\u90a3\u7ef4\u83b1\u7279\u8bf4",
-        "\u6c34\u9f99\u738b\u8bf4"
-    ],
-    "mihoyo_outlander_frame": [
-        "\u5f02\u4e61\u4eba\u76f8\u6846"
-    ],
-    "mihoyo_paimon_crown": [
-        "\u6d3e\u8499\u738b\u51a0",
-        "\u6d3e\u8499\u7687\u51a0",
-        "\ud83d\udc51"
-    ],
-    "mihoyo_paimon_emergency_food_frame": [
-        "\u5e94\u6025\u98df\u54c1\u76f8\u6846"
-    ],
-    "mihoyo_paimon_frame": [
-        "\u6d3e\u8499\u76f8\u6846"
-    ],
-    "mihoyo_paimon_say": [
-        "\u6d3e\u8499\u8bf4"
-    ],
-    "mihoyo_qiqi_suck": [
-        "\u4e03\u4e03\u8214"
-    ],
-    "mihoyo_sangonomiya_kokomi_love": [
-        "\u5fc3\u6d77\u7231\u5fc3"
-    ],
-    "mihoyo_senior_phone": [
-        "\u7c73\u5b66\u957f\u624b\u673a"
-    ],
-    "mihoyo_shikanoin_heizou_frame": [
-        "\u9e7f\u91ce\u9662\u5e73\u85cf\u76f8\u6846"
-    ],
-    "mihoyo_sigewinne_fingered": [
-        "\u6ca1\u6551\u4e86",
-        "\u5e0c\u683c\u96ef\u6307"
-    ],
-    "mihoyo_tartaglia_frame": [
-        "\u8fbe\u8fbe\u5229\u4e9a\u76f8\u6846",
-        "\u963f\u8d3e\u514b\u65af\u76f8\u6846",
-        "\u516c\u5b50\u76f8\u6846"
-    ],
-    "mihoyo_tepetlisauri_frame": [
-        "\u5d74\u950b\u9f99\u76f8\u6846"
-    ],
-    "mihoyo_thunderbolt_slime_frame": [
-        "\u96f7\u53f2\u83b1\u59c6\u76f8\u6846",
-        "\u96f7\u7535\u53f2\u83b1\u59c6\u76f8\u6846"
-    ],
-    "mihoyo_traveler_frame": [
-        "\u65c5\u884c\u8005\u76f8\u6846"
-    ],
-    "mihoyo_wind_slime_frame": [
-        "\u98ce\u53f2\u83b1\u59c6\u76f8\u6846"
-    ],
-    "mihoyo_yelan_phone": [
-        "\u591c\u5170\u624b\u673a"
-    ],
-    "miss_in_my_sleep": [
-        "\u7761\u68a6\u4e2d\u60f3\u5ff5"
-    ],
-    "mixue": [
-        "\u871c\u96ea\u51b0\u57ce"
-    ],
-    "mixue_jasmine_milk_green": [
-        "\u8309\u8389\u5976\u7eff"
-    ],
-    "mixue_stick_beaten_fresh_orange": [
-        "\u68d2\u6253\u9c9c\u6a59"
-    ],
-    "mi_leijun_holdsign": [
-        "\u96f7\u519b\u4e3e\u724c"
-    ],
-    "mi_monkey": [
-        "\u7c73\u7334",
-        "\ud83d\udc12",
-        "\ud83d\udc35"
-    ],
-    "mourning": [
-        "\u4e0a\u9999"
-    ],
-    "murmur": [
-        "\u4f4e\u8bed"
-    ],
-    "mygo_sakiko_togawa": [
-        "\u4e30\u5ddd\u7965\u5b50",
-        "\u7965\u5b50",
-        "\u8c4a\u5ddd\u7965\u5b50"
-    ],
-    "my_friend": [
-        "\u6211\u670b\u53cb\u8bf4"
-    ],
-    "my_opinion": [
-        "\u6211\u7684\u610f\u89c1\u5982\u4e0b",
-        "\u6211\u7684\u610f\u89c1\u662f"
-    ],
-    "my_wife": [
-        "\u6211\u8001\u5a46",
-        "\u8fd9\u662f\u6211\u8001\u5a46"
-    ],
-    "nahida_bite": [
-        "\u7eb3\u897f\u59b2\u5543",
-        "\u8349\u795e\u5543"
-    ],
-    "nakano_lchika": [
-        "\u4e2d\u91ce\u4e00\u82b1"
-    ],
-    "nakano_ltsuki": [
-        "\u4e2d\u91ce\u4e94\u6708"
-    ],
-    "nakano_miku": [
-        "\u4e2d\u91ce\u4e09\u7396"
-    ],
-    "nakano_nino": [
-        "\u4e2d\u91ce\u4e8c\u4e43"
-    ],
-    "nakano_yotsuba": [
-        "\u4e2d\u91ce\u56db\u53f6"
-    ],
-    "name_generator": [
-        "\u4e9a\u6587\u5316\u53d6\u540d\u673a",
-        "\u4e9a\u540d"
-    ],
-    "naruro_resurrection": [
-        "\u590d\u6d3b",
-        "\u7acb\u5373\u590d\u6d3b"
-    ],
-    "naruro_s_ninja": [
-        "S\u5fcd",
-        "s\u5fcd"
-    ],
-    "naruro_uzumaki_naruto_holdsign": [
-        "\u9e23\u4eba\u4e3e\u724c",
-        "\u6f29\u6da1\u9e23\u4eba\u4e3e\u724c"
-    ],
-    "naruto_bagua_seal": [
-        "\u516b\u5366\u5c01\u5370"
-    ],
-    "naruto_uchiha_itachi_say": [
-        "\u9f2c\u8bf4",
-        "\u5b87\u667a\u6ce2\u9f2c\u8bf4"
-    ],
-    "naruto_yakushi_kabuto_say": [
-        "\u836f\u5e08\u515c\u8bf4",
-        "\u515c\u8bf4"
-    ],
-    "national_day_plan": [
-        "\u56fd\u5e86\u8ba1\u5212",
-        "\u56fd\u5e86\u8282\u8ba1\u5212"
-    ],
-    "need": [
-        "\u9700\u8981",
-        "\u4f60\u53ef\u80fd\u9700\u8981"
-    ],
-    "nekoha_holdsign": [
-        "\u732b\u7fbd\u96eb\u4e3e\u724c",
-        "\u732b\u732b\u4e3e\u724c"
-    ],
-    "new_goodnews": [
-        "\u65b0\u559c\u62a5"
-    ],
-    "nijika_holdsign": [
-        "\u4f0a\u5730\u77e5\u8679\u590f\u4e3e\u724c",
-        "\u8679\u590f\u4e3e\u724c"
-    ],
-    "nokia": [
-        "\u8bfa\u57fa\u4e9a",
-        "\u6709\u5185\u9b3c"
-    ],
-    "note_for_leave": [
-        "\u8bf7\u5047\u6761"
-    ],
-    "not_call_me": [
-        "\u4e0d\u558a\u6211"
-    ],
-    "no_response": [
-        "\u65e0\u54cd\u5e94"
-    ],
-    "ok": [
-        "ok",
-        "OK",
-        "Ok"
-    ],
-    "oral_sex": [
-        "\u53e3"
-    ],
-    "orange_head": [
-        "\u6a58\u5b50\u5934"
-    ],
-    "oshi_no_ko": [
-        "\u6211\u63a8\u7684\u7f51\u53cb"
-    ],
-    "osu": [
-        "osu"
-    ],
-    "out": [
-        "out"
-    ],
-    "overtime": [
-        "\u52a0\u73ed"
-    ],
-    "p5letter": [
-        "\u5973\u795e\u5f02\u95fb\u5f555\u9884\u544a\u4fe1",
-        "P5\u9884\u544a\u4fe1"
-    ],
-    "paint": [
-        "\u8fd9\u50cf\u753b\u5417"
-    ],
-    "painter": [
-        "\u5c0f\u753b\u5bb6"
-    ],
-    "palworld_chillet": [
-        "\u75be\u98ce\u9f2c"
-    ],
-    "palworld_chillet_god_wealth": [
-        "\u8d22\u6e90\u6eda\u6eda",
-        "\u8d22\u795e\u5230"
-    ],
-    "panda_dragon_figure": [
-        "\u718a\u732b\u9f99\u56fe"
-    ],
-    "pass_the_buck": [
-        "\u63a8\u9505",
-        "\u7529\u9505"
-    ],
-    "pat": [
-        "\u62cd"
-    ],
-    "pay_to_watch": [
-        "\u4ed8\u8d39\u89c2\u770b"
-    ],
-    "peas": [
-        "\u6211\u561e\u4e2a\u8c46",
-        "\u8c46"
-    ],
-    "pepe_raise": [
-        "\u4f69\u4f69\u4e3e"
-    ],
-    "perfect": [
-        "\u5b8c\u7f8e"
-    ],
-    "petpet": [
-        "\u6478",
-        "\u6478\u6478",
-        "\u6478\u5934",
-        "rua"
-    ],
-    "picking_flowers": [
-        "\u6458\u82b1"
-    ],
-    "pierrot_plus_head": [
-        "\u62fe\u53c8\u4e4b\u56fd"
-    ],
-    "pinch": [
-        "\u634f",
-        "\u634f\u8138"
-    ],
-    "pineapples": [
-        "\ud83c\udf4d",
-        "\u83e0\u841d\u5934"
-    ],
-    "pixelate": [
-        "\u50cf\u7d20\u5316"
-    ],
-    "pjsk": [
-        "pjsk",
-        "\u4e16\u754c\u8ba1\u5212"
-    ],
-    "plana_eat": [
-        "\u666e\u62c9\u5a1c\u5403",
-        "\u666e\u62c9\u5a1c\u8214"
-    ],
-    "play": [
-        "\u9876",
-        "\u73a9"
-    ],
-    "play_baseball": [
-        "\u6253\u68d2\u7403"
-    ],
-    "play_basketball": [
-        "\u6253\u7bee\u7403",
-        "\u706b\u67f4\u4eba\u6253\u7bee\u7403"
-    ],
-    "play_game": [
-        "\u73a9\u6e38\u620f"
-    ],
-    "play_together": [
-        "\u4e00\u8d77\u73a9"
-    ],
-    "please_waiting": [
-        "\u8bf7\u7a0d\u5019"
-    ],
-    "police": [
-        "\u51fa\u8b66"
-    ],
-    "pornhub": [
-        "ph",
-        "pornhub"
-    ],
-    "potato": [
-        "\u571f\u8c46"
-    ],
-    "potato_mines": [
-        "\u571f\u8c46\u5730\u96f7"
-    ],
-    "pound": [
-        "\u6363"
-    ],
-    "pregnancy_test": [
-        "\u9a8c\u5b55\u68d2"
-    ],
-    "printing": [
-        "\u6253\u5370"
-    ],
-    "prpr": [
-        "\u8214",
-        "\u8214\u5c4f",
-        "prpr"
-    ],
-    "psyduck": [
-        "\u53ef\u8fbe\u9e2d"
-    ],
-    "punch": [
-        "\u6253\u62f3"
-    ],
-    "pyramid": [
-        "\u56db\u68f1\u9525",
-        "\u91d1\u5b57\u5854"
-    ],
-    "qixi_festival": [
-        "\u4e03\u5915\u548c\u8c01\u8fc7",
-        "\u4e03\u5915\u548c\u8c01\u8fc7?",
-        "\u4e03\u5915\u548c\u8c01\u8fc7\uff1f"
-    ],
-    "quilt": [
-        "\u88ab\u7a9d"
-    ],
-    "rabbit": [
-        "\ud83d\udc07",
-        "\u5154\u5b50",
-        "\u5154",
-        "\u5154\u8033\u5e3d"
-    ],
-    "raise_image": [
-        "\u4e3e"
-    ],
-    "raise_sign": [
-        "\u4e3e\u724c"
-    ],
-    "read_book": [
-        "\u770b\u4e66"
-    ],
-    "read_love_letters": [
-        "\u770b\u60c5\u4e66"
-    ],
-    "remote_control": [
-        "\u9065\u63a7",
-        "\u63a7\u5236"
-    ],
-    "repeat": [
-        "\u590d\u8bfb"
-    ],
-    "rip": [
-        "\u6495"
-    ],
-    "rip_angrily": [
-        "\u6012\u6495"
-    ],
-    "rip_clothes": [
-        "\u6495\u8863\u670d"
-    ],
-    "rise_dead": [
-        "\u8bc8\u5c38",
-        "\u79fd\u571f\u8f6c\u751f"
-    ],
-    "roll": [
-        "\u6eda"
-    ],
-    "rotate_3d": [
-        "\u4e09\u7ef4\u65cb\u8f6c"
-    ],
-    "rub": [
-        "\u8d34",
-        "\u8d34\u8d34",
-        "\u8e6d",
-        "\u8e6d\u8e6d"
-    ],
-    "run": [
-        "\u5feb\u8dd1"
-    ],
-    "rune": [
-        "\u7b26\u5492"
-    ],
-    "run_away": [
-        "\u5feb\u9003"
-    ],
-    "safe_sense": [
-        "\u5b89\u5168\u611f"
-    ],
-    "saimin_app": [
-        "\u50ac\u7720app"
-    ],
-    "scissor_seven_head": [
-        "\u4f0d\u516d\u4e03",
-        "\u963f\u4e03"
-    ],
-    "scratchcard": [
-        "\u522e\u522e\u4e50"
-    ],
-    "scratch_head": [
-        "\u6320\u5934"
-    ],
-    "scroll": [
-        "\u6eda\u5c4f"
-    ],
-    "seal": [
-        "\u6e90\u77f3\u5c01\u5370"
-    ],
-    "sekaiichi_kawaii": [
-        "\u4e16\u754c\u7b2c\u4e00\u53ef\u7231"
-    ],
-    "sending_love": [
-        "\u6bd4\u5fc3"
-    ],
-    "shake_head": [
-        "\u6643\u8111"
-    ],
-    "shamate": [
-        "\u6740\u9a6c\u7279"
-    ],
-    "shikanoko_noko": [
-        "\u9e7f\u4e43\u5b50\u4e43\u5b50",
-        "\u9e7f\u4e43\u5b50"
-    ],
-    "shipborne_laser_weapons": [
-        "\u8230\u8f7d\u6fc0\u5149\u6b66\u5668"
-    ],
-    "shiroko_pero": [
-        "\u767d\u5b50\u8214"
-    ],
-    "shock": [
-        "\u9707\u60ca"
-    ],
-    "shuai": [
-        "\u7529"
-    ],
-    "shutup": [
-        "\u522b\u8bf4\u4e86"
-    ],
-    "sitdown_do": [
-        "\u5750\u6485"
-    ],
-    "sit_still": [
-        "\u5750\u5f97\u4f4f",
-        "\u5750\u7684\u4f4f"
-    ],
-    "slacking_off": [
-        "\u6478\u9c7c"
-    ],
-    "slap": [
-        "\u4e00\u5df4\u638c"
-    ],
-    "slogan": [
-        "\u53e3\u53f7"
-    ],
-    "small_hands": [
-        "\u5c0f\u624b"
-    ],
-    "smash": [
-        "\u7838"
-    ],
-    "sold_out": [
-        "\u5356\u6389\u4e86"
-    ],
-    "something": [
-        "\u4ec0\u4e48\u4e1c\u897f"
-    ],
-    "speechless": [
-        "\u65e0\u8bed"
-    ],
-    "spend_christmas": [
-        "\u4e00\u8d77\u5723\u8bde"
-    ],
-    "sphere_rotate": [
-        "\u7403\u9762\u65cb\u8f6c"
-    ],
-    "spider": [
-        "\u8718\u86db",
-        "\u8718\u86db\u722c"
-    ],
-    "stare_at_you": [
-        "\u76ef\u7740\u4f60"
-    ],
-    "steam_message": [
-        "steam\u6d88\u606f"
-    ],
-    "step_on": [
-        "\u8e29"
-    ],
-    "stew": [
-        "\u7096"
-    ],
-    "stickman_dancing": [
-        "\u8df3\u821e",
-        "\u706b\u67f4\u4eba\u8df3\u821e"
-    ],
-    "subject3": [
-        "\u79d1\u76ee\u4e09"
-    ],
-    "suck": [
-        "\u5438",
-        "\u55e6"
-    ],
-    "support": [
-        "\u7cbe\u795e\u652f\u67f1"
-    ],
-    "swimsuit_group_photo": [
-        "\u6cf3\u8863\u5408\u5f71",
-        "\u6bd4\u57fa\u5c3c\u5408\u5f71"
-    ],
-    "swirl_turn": [
-        "\u56de\u65cb\u8f6c",
-        "\u65cb\u98ce\u8f6c"
-    ],
-    "symmetric": [
-        "\u5bf9\u79f0"
-    ],
-    "tankuku_raisesign": [
-        "\u5510\u53ef\u53ef\u4e3e\u724c"
-    ],
-    "taunt": [
-        "\u5632\u8bbd"
-    ],
-    "teach": [
-        "\u8bb2\u8bfe",
-        "\u6572\u9ed1\u677f"
-    ],
-    "tease": [
-        "\u62ff\u634f",
-        "\u620f\u5f04"
-    ],
-    "telescope": [
-        "\u671b\u8fdc\u955c"
-    ],
-    "tencent_marco_polo_ride": [
-        "\u9a6c\u514b\u9a91",
-        "\u9a6c\u53ef\u6ce2\u7f57\u9a91"
-    ],
-    "tencent_np": [
-        "\u519cP",
-        "\u519c\u6279"
-    ],
-    "thermometer_gun": [
-        "\u4f53\u6e29\u67aa"
-    ],
-    "think_what": [
-        "\u60f3\u4ec0\u4e48"
-    ],
-    "this_chicken": [
-        "\u8fd9\u662f\u9e21",
-        "\ud83d\udc14"
-    ],
-    "throw": [
-        "\u4e22",
-        "\u6254"
-    ],
-    "throwing_poop": [
-        "\u6254\u53f2"
-    ],
-    "throw_gif": [
-        "\u629b",
-        "\u63b7"
-    ],
-    "thump": [
-        "\u6376"
-    ],
-    "thump_wildly": [
-        "\u6376\u7206",
-        "\u7206\u6376"
-    ],
-    "tightly": [
-        "\u7d27\u8d34",
-        "\u7d27\u7d27\u8d34\u7740"
-    ],
-    "time_to_go": [
-        "\u8be5\u8d70\u4e86"
-    ],
-    "together": [
-        "\u4e00\u8d77"
-    ],
-    "together_two": [
-        "\u5728\u4e00\u8d77"
-    ],
-    "tomb_yeah": [
-        "\u4e0a\u575f",
-        "\u575f\u524d\u6bd4\u8036"
-    ],
-    "tom_tease": [
-        "\u6c64\u59c6\u5632\u7b11"
-    ],
-    "top_notch": [
-        "\u9876\u5c16"
-    ],
-    "torture_yourself": [
-        "\u6298\u78e8\u81ea\u5df1"
-    ],
-    "trance": [
-        "\u604d\u60da"
-    ],
-    "trolley": [
-        "\u63a8\u8f66"
-    ],
-    "turn": [
-        "\u8f6c"
-    ],
-    "twist": [
-        "\u6413"
-    ],
-    "universal": [
-        "\u4e07\u80fd\u8868\u60c5",
-        "\u7a7a\u767d\u8868\u60c5"
-    ],
-    "upside_down": [
-        "\u53cd\u4e86"
-    ],
-    "up_to": [
-        "\u5e72\u561b"
-    ],
-    "vibrate": [
-        "\u9707\u52a8"
-    ],
-    "vme50": [
-        "V\u621150",
-        "v\u621150"
-    ],
-    "wakeup": [
-        "\u597d\u8d77\u6765\u4e86"
-    ],
-    "wallpaper": [
-        "\u5899\u7eb8"
-    ],
-    "walnut_pad": [
-        "\u80e1\u6843\u5e73\u677f"
-    ],
-    "walnut_zoom": [
-        "\u80e1\u6843\u653e\u5927"
-    ],
-    "washer": [
-        "\u6d17\u8863\u673a"
-    ],
-    "wave": [
-        "\u6ce2\u7eb9"
-    ],
-    "wechat_pay": [
-        "\u5fae\u4fe1\u652f\u4ed8"
-    ],
-    "what_he_wants": [
-        "\u6700\u60f3\u8981\u7684\u4e1c\u897f"
-    ],
-    "what_I_want_to_do": [
-        "\u6211\u60f3\u4e0a\u7684"
-    ],
-    "whisper": [
-        "\u7a83\u7a83\u79c1\u8bed"
-    ],
-    "why_at_me": [
-        "\u4e3a\u4ec0\u4e48@\u6211"
-    ],
-    "why_have_hands": [
-        "\u4e3a\u4ec0\u4e48\u8981\u6709\u624b"
-    ],
-    "widow": [
-        "\u672a\u4ea1\u4eba"
-    ],
-    "windmill_turn": [
-        "\u98ce\u8f66\u8f6c"
-    ],
-    "wish_fail": [
-        "\u8bb8\u613f\u5931\u8d25"
-    ],
-    "wooden_fish": [
-        "\u6728\u9c7c"
-    ],
-    "worship": [
-        "\u819c",
-        "\u819c\u62dc"
-    ],
-    "wujing": [
-        "\u5434\u4eac\u4e2d\u56fd"
-    ],
-    "xiluo_disgust": [
-        "\u5e0c\u7f57\u5acc\u5f03",
-        "\u4e8c\u9636\u5802\u5e0c\u7f57\u5acc\u5f03"
-    ],
-    "xueli_say": [
-        "\u96ea\u8389\u8bf4",
-        "\u96ea\u68a8\u8bf4",
-        "\u6a58\u96ea\u8389\u8bf4"
-    ],
-    "xueli_think": [
-        "\u96ea\u8389\u60f3",
-        "\u96ea\u68a8\u60f3",
-        "\u6a58\u96ea\u8389\u60f3"
-    ],
-    "yes": [
-        "yes",
-        "Yes",
-        "YES"
-    ],
-    "yeshu": [
-        "\u6930\u6811\u6930\u6c41"
-    ],
-    "your_new_years_eve": [
-        "\u4f60\u7684\u8de8\u5e74"
-    ],
-    "youtube": [
-        "yt",
-        "youtube"
-    ],
-    "you_dont_get": [
-        "\u4f60\u4e0d\u61c2\u5566"
-    ],
-    "you_should_call": [
-        "\u81f4\u7535",
-        "\u4f60\u5e94\u8be5\u81f4\u7535"
-    ],
-    "yuzu_soft_ayachi_nene": [
-        "\u5b81\u5b81\u56f0\u60d1",
-        "\u7eeb\u5730\u5b81\u5b81\u56f0\u60d1"
-    ],
-    "yuzu_soft_ciallo": [
-        "ciallo",
-        "ciallo~"
-    ],
-    "yuzu_soft_holdsign": [
-        "\u67da\u5b50\u53a8\u4e3e\u724c"
-    ],
-    "yuzu_soft_ignore": [
-        "\u89c6\u82e5\u65e0\u7779"
-    ],
-    "yuzu_soft_mako_hitachi_holdsign": [
-        "\u5e38\u9678\u8309\u5b50\u4e3e\u724c",
-        "\u8309\u5b50\u4e3e\u724c",
-        "\u5e38\u9646\u8309\u5b50\u4e3e\u724c"
-    ],
-    "yuzu_soft_murasame_blackboard": [
-        "\u4e1b\u96e8\u9ed1\u677f"
-    ],
-    "yuzu_soft_murasame_clothes": [
-        "\u4e1b\u96e8\u8863\u670d",
-        "\u4e1b\u96e8\u8863\u7269"
-    ],
-    "yuzu_soft_murasame_dislike": [
-        "\u4e1b\u96e8\u8ba8\u538c"
-    ],
-    "yuzu_soft_murasame_finger": [
-        "\u67da\u5b50\u53a8",
-        "\u4e1b\u96e8\u6307"
-    ],
-    "yuzu_soft_murasame_husband": [
-        "\u4e1b\u96e8\u8001\u516c"
-    ],
-    "yuzu_soft_murasame_ipad": [
-        "\u4e1b\u96e8\u5e73\u677f"
-    ],
-    "yuzu_soft_murasame_like": [
-        "\u4e1b\u96e8\u559c\u6b22"
-    ],
-    "yuzu_soft_murasame_say": [
-        "\u4e1b\u96e8\u8bf4"
-    ],
-    "yuzu_soft_shocked": [
-        "\u9707\u60ca\u67da\u5b50\u53a8"
-    ],
-    "yuzu_soft_ticket": [
-        "\u51c6\u8003\u8bc1"
-    ]
+    "5000choyen": {
+        "keywords": [
+            "5000\u5146"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "\u6211\u53bb",
+            "\u6d1b\u5929\u4f9d"
+        ]
+    },
+    "abstinence": {
+        "keywords": [
+            "\u6212\u5bfc"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "acacia_anan_holdsign": {
+        "keywords": [
+            "\u5b89\u5b89\u4e3e\u724c",
+            "\u590f\u76ee\u5b89\u5b89\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5feb\u8bf4\u543e\u8f88\u53ef\u7231"
+        ]
+    },
+    "ace_attorney_dialog": {
+        "keywords": [
+            "\u9006\u8f6c\u88c1\u5224\u6c14\u6ce1"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u8868\u60c5\u5305\u5236\u4f5c"
+        ]
+    },
+    "acg_entrance": {
+        "keywords": [
+            "\u4e8c\u6b21\u5143\u5165\u53e3"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "addiction": {
+        "keywords": [
+            "\u4e0a\u763e",
+            "\u6bd2\u763e\u53d1\u4f5c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "add_chaos": {
+        "keywords": [
+            "\u6dfb\u4e71",
+            "\u7ed9\u793e\u4f1a\u6dfb\u4e71"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "admission_letter": {
+        "keywords": [
+            "\u5f55\u53d6\u901a\u77e5\u4e66"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "Anyliew"
+        ]
+    },
+    "adoption": {
+        "keywords": [
+            "\u6536\u517b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "aima_say": {
+        "keywords": [
+            "\u827e\u739b\u8bf4",
+            "\u6a31\u7fbd\u827e\u739b\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f55\u610f\u5473\uff1f"
+        ]
+    },
+    "ai_ace": {
+        "keywords": [
+            "AI\u9ad8\u624b",
+            "ai\u9ad8\u624b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "alike": {
+        "keywords": [
+            "\u4e00\u6837"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "alipay": {
+        "keywords": [
+            "\u652f\u4ed8\u5b9d\u652f\u4ed8"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "allegiance": {
+        "keywords": [
+            "\ucda9\uc131",
+            "\u5fe0\u6a59",
+            "\u656c\u793c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "all_the_days": {
+        "keywords": [
+            "\u4e00\u751f\u4e00\u4e16"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "always": {
+        "keywords": [
+            "\u4e00\u76f4"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "always_like": {
+        "keywords": [
+            "\u6211\u6c38\u8fdc\u559c\u6b22"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "anti_kidnap": {
+        "keywords": [
+            "\u9632\u8bf1\u62d0"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "anya_suki": {
+        "keywords": [
+            "\u963f\u5c3c\u4e9a\u559c\u6b22"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "anyliew_struggling": {
+        "keywords": [
+            "\u6323\u624e"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "applaud": {
+        "keywords": [
+            "\u9f13\u638c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "arona_throw": {
+        "keywords": [
+            "\u963f\u7f57\u5a1c\u6254"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ascension": {
+        "keywords": [
+            "\u5347\u5929"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5b66\u7684\u662f\u673a\u68b0"
+        ]
+    },
+    "ask": {
+        "keywords": [
+            "\u95ee\u95ee"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "atri_finger": {
+        "keywords": [
+            "\u4e9a\u6258\u8389\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "atri_holdsign": {
+        "keywords": [
+            "\u4e9a\u6258\u8389\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u8bf7\u4e0d\u8981\u5fd8\u8bb0\u6211\u54e6\u2026\u2026\n\u8bf7\u4e00\u76f4,\u4e00\u76f4\u8bb0\u4f4f\u6211\u54e6\n\u660e\u5929,\u8bf7\u628a\u6211\u5e26\u5230\u4f0a\u7538\n\u6211\u60f3\u770b\u89c1\u5927\u5bb6\u7684\u7b11\u5bb9\n\u6211\u60f3\u770b\u5230\u5927\u5bb6\u5f00\u5fc3\u7684\u8868\u60c5\n\u6211\u60f3\u5b66\u4e60\u559c\u60a6"
+        ]
+    },
+    "atri_like": {
+        "keywords": [
+            "\u4e9a\u6258\u8389\u559c\u6b22"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "atri_pillow": {
+        "keywords": [
+            "\u4e9a\u6258\u8389\u6795\u5934"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "ATRI"
+        ]
+    },
+    "atri_say": {
+        "keywords": [
+            "\u4e9a\u6258\u8389\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u597d\u4e45\u4e0d\u89c1\uff0c\u4f60\u957f\u5927\u4e86\u5462\u3002"
+        ]
+    },
+    "ayachi_holdsign": {
+        "keywords": [
+            "\u5b81\u5b81\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u63a7\u5236\u4e0d\u4f4f\u81ea\u5df1\u554a"
+        ]
+    },
+    "azur_lane_cheshire_thumbs_up": {
+        "keywords": [
+            "\u67f4\u90e1\u70b9\u8d5e",
+            "\u67f4\u90e1\u732b\u70b9\u8d5e"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "baby": {
+        "keywords": [
+            "\u5b9d\u5b9d",
+            "BB",
+            "bb",
+            "baby",
+            "Baby"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "backflip": {
+        "keywords": [
+            "\u540e\u7a7a\u7ffb"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "back_to_work": {
+        "keywords": [
+            "\u7ee7\u7eed\u5e72\u6d3b",
+            "\u6253\u5de5\u4eba"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bad_news": {
+        "keywords": [
+            "\u60b2\u62a5"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u559c\u62a5"
+        ]
+    },
+    "ba_say": {
+        "keywords": [
+            "ba\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u90a3\u6211\u95ee\u4f60"
+        ]
+    },
+    "beat_head": {
+        "keywords": [
+            "\u62cd\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "beat_up": {
+        "keywords": [
+            "\u63cd"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "begged_me": {
+        "keywords": [
+            "\u6c42\u6211"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "beg_foster_care": {
+        "keywords": [
+            "\u6c42\u5305\u517b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "behind_do": {
+        "keywords": [
+            "\u540e\u6485"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "beloveds": {
+        "keywords": [
+            "\u631a\u7231"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "big_eagle_cute_girl": {
+        "keywords": [
+            "\u5927\u5c4c\u840c\u59b9",
+            "\u5927\u540a\u840c\u59b9",
+            "\u5927\u96d5\u840c\u59b9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bird_lgnoring": {
+        "keywords": [
+            "\u4e0d\u9e1f\u4f60",
+            "\u6211\u9e1f\u90fd\u4e0d\u9e1f\u4f60"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bite": {
+        "keywords": [
+            "\u5543"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "blamed_mahiro": {
+        "keywords": [
+            "\u771f\u5bfb\u6328\u9a82"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u50bb\u903c"
+        ]
+    },
+    "blood_pressure": {
+        "keywords": [
+            "\u9ad8\u8840\u538b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bluearchive": {
+        "keywords": [
+            "\u851a\u84dd\u6863\u6848\u6807\u9898",
+            "batitle"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "Blue",
+            "Archive"
+        ]
+    },
+    "bocchi_draft": {
+        "keywords": [
+            "\u6ce2\u5947\u624b\u7a3f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bonfire_dance": {
+        "keywords": [
+            "\u7bdd\u706b\u821e",
+            "\u5708\u821e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bronya_holdsign": {
+        "keywords": [
+            "\u5e03\u6d1b\u59ae\u5a05\u4e3e\u724c",
+            "\u5927\u9e2d\u9e2d\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "V\u621150"
+        ]
+    },
+    "bubble_tea": {
+        "keywords": [
+            "\u5976\u8336"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "bully_me": {
+        "keywords": [
+            "\u6076\u8bed\u76f8\u5411"
+        ],
+        "min_images": 1,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211"
+        ]
+    },
+    "call_110": {
+        "keywords": [
+            "\u9047\u5230\u56f0\u96be\u8bf7\u62e8\u6253"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_draw": {
+        "keywords": [
+            "\u5496\u6ce2\u753b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_fished_out": {
+        "keywords": [
+            "\u5496\u6ce2\u638f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_gothammered": {
+        "keywords": [
+            "\u5496\u6ce2\u88ab\u9524"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_lashings": {
+        "keywords": [
+            "\u5496\u6ce2\u6376\u6253",
+            "\u6376\u6253"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_point": {
+        "keywords": [
+            "\u5496\u6ce2\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_rip": {
+        "keywords": [
+            "\u5496\u6ce2\u6495"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_rub": {
+        "keywords": [
+            "\u5496\u6ce2\u8e6d",
+            "\u5496\u6ce2\u8d34"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_say": {
+        "keywords": [
+            "\u5496\u6ce2\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5bc4"
+        ]
+    },
+    "capoo_smash_egg": {
+        "keywords": [
+            "\u5496\u6ce2\u7838\u86cb"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_stew": {
+        "keywords": [
+            "\u5496\u6ce2\u7096"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_strike": {
+        "keywords": [
+            "\u5496\u6ce2\u649e",
+            "\u5496\u6ce2\u5934\u69cc"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_take_dump": {
+        "keywords": [
+            "\u5496\u6ce2\u62c9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_take_sleep": {
+        "keywords": [
+            "\u5496\u6ce2\u7761\u89c9",
+            "\u7761\u89c9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "capoo_take_smash": {
+        "keywords": [
+            "\u5496\u6ce2\u7838"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "captain": {
+        "keywords": [
+            "\u8230\u957f"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "cat_lick": {
+        "keywords": [
+            "\u732b\u8214",
+            "\u732b\u732b\u8214"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "cat_scratch": {
+        "keywords": [
+            "\u732b\u6293",
+            "\u732b\u732b\u6293"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "caused_by_this": {
+        "keywords": [
+            "\u8fd9\u4e2a\u5f15\u8d77\u7684"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "certificate": {
+        "keywords": [
+            "\u5956\u72b6",
+            "\u8bc1\u4e66"
+        ],
+        "min_images": null,
+        "min_texts": 3,
+        "default_texts": [
+            "\u5c0f\u738b",
+            "\u4f18\u79c0\u5b66\u751f",
+            "\u4e00\u5e74\u4e00\u73ed"
+        ]
+    },
+    "charpic": {
+        "keywords": [
+            "\u5b57\u7b26\u753b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "chase_train": {
+        "keywords": [
+            "\u8ffd\u5217\u8f66",
+            "\u8ffd\u706b\u8f66"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "chillet_deer": {
+        "keywords": [
+            "\u75be\u98ce\u9e7f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "china_flag": {
+        "keywords": [
+            "\u56fd\u65d7"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "chino_throw": {
+        "keywords": [
+            "\u667a\u4e43\u6254",
+            "\u667a\u4e43\u629b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "christmas_eve": {
+        "keywords": [
+            "\u5e73\u5b89\u591c",
+            "\u5e73\u5b89\u591c\u5feb\u4e50"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "christmas_gift": {
+        "keywords": [
+            "\u5723\u8bde\u793c\u7269"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "christmas_hat": {
+        "keywords": [
+            "\u5723\u8bde\u5e3d\u5b50",
+            "\u5723\u8bde\u5e3d"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "chuanmama": {
+        "keywords": [
+            "\u5ddd\u5988\u5988"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "chuini": {
+        "keywords": [
+            "\u6376\u4f60"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "cinderella_eat": {
+        "keywords": [
+            "\u7070\u59d1\u5a18\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "clauvio_twist": {
+        "keywords": [
+            "\u9f20\u9f20\u6413"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "cleverer": {
+        "keywords": [
+            "\u6bd4\u806a\u660e"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "clown": {
+        "keywords": [
+            "\u5c0f\u4e11"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "clownish": {
+        "keywords": [
+            "\u6ed1\u7a3d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "clown_mask": {
+        "keywords": [
+            "\u5c0f\u4e11\u9762\u5177"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "cockroaches": {
+        "keywords": [
+            "\u87d1\u8782",
+            "\u5c0f\u5f3a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "commemorate": {
+        "keywords": [
+            "\u5960",
+            "\u5bc4"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "confuse": {
+        "keywords": [
+            "\u8ff7\u60d1"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "contract": {
+        "keywords": [
+            "\u5356\u8eab\u5951",
+            "\u2b50\ufe0f\ud83d\udca2\u5951\u7ea6",
+            "\u5974\u96b6\u5951\u7ea6"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "cooking": {
+        "keywords": [
+            "\u7092\u83dc"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "coupon": {
+        "keywords": [
+            "\u5151\u6362\u5238"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "cover_face": {
+        "keywords": [
+            "\u6342\u8138"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "crawl": {
+        "keywords": [
+            "\u722c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "cyan": {
+        "keywords": [
+            "\u7fa4\u9752"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dalia_everyone": {
+        "keywords": [
+            "\u6240\u6709\u4eba"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "daynight": {
+        "keywords": [
+            "\u767d\u5929\u9ed1\u591c",
+            "\u767d\u5929\u665a\u4e0a"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "decent_kiss": {
+        "keywords": [
+            "\u50cf\u6837\u7684\u4eb2\u4eb2"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "deer_help": {
+        "keywords": [
+            "\u5e2e\u9e7f",
+            "\u5e2e\ud83e\udd8c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "deer_plan": {
+        "keywords": [
+            "\u9e7f\u7ba1\u8ba1\u5212"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "deer_time": {
+        "keywords": [
+            "\u9e7f\u7ba1\u65f6\u95f4"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "dianzhongdian": {
+        "keywords": [
+            "\u5165\u5178",
+            "\u5178\u4e2d\u5178",
+            "\u9ed1\u767d\u8349\u56fe"
+        ],
+        "min_images": 1,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6551\u547d\u554a"
+        ]
+    },
+    "dinosaur": {
+        "keywords": [
+            "\u6050\u9f99",
+            "\u5c0f\u6050\u9f99"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dinosaur_head": {
+        "keywords": [
+            "\u6050\u9f99\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "distracted": {
+        "keywords": [
+            "\u6ce8\u610f\u529b\u6da3\u6563"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "divorce": {
+        "keywords": [
+            "\u79bb\u5a5a\u534f\u8bae",
+            "\u79bb\u5a5a\u7533\u8bf7"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dog_dislike": {
+        "keywords": [
+            "\u72d7\u90fd\u4e0d\u73a9"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "dog_ear_hat": {
+        "keywords": [
+            "\u72d7\u8033\u5e3d",
+            "\u72d7\u5e3d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dog_girl": {
+        "keywords": [
+            "\u72d7\u59b9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dog_of_vtb": {
+        "keywords": [
+            "\u7ba1\u4eba\u75f4"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dont_go_near": {
+        "keywords": [
+            "\u4e0d\u8981\u9760\u8fd1"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "dont_press": {
+        "keywords": [
+            "\u4e0d\u8981\u6309"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4e16\u754c\u6bc1\u706d"
+        ]
+    },
+    "dont_touch": {
+        "keywords": [
+            "\u522b\u78b0"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_banging": {
+        "keywords": [
+            "doro\u6572",
+            "Doro\u6572",
+            "\u6843\u4e50\u4e1d\u6572"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_chasing": {
+        "keywords": [
+            "doro\u8ffd",
+            "Doro\u8ffd",
+            "\u6843\u4e50\u4e1d\u8ffd"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_contact": {
+        "keywords": [
+            "\u4ea4\u5f80",
+            "doro\u4ea4\u5f80",
+            "Doro\u4ea4\u5f80",
+            "DORO\u4ea4\u5f80",
+            "\u6843\u4e50\u4e1d\u4ea4\u5f80"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "doro_dear": {
+        "keywords": [
+            "\u6700\u7231",
+            "doro\u6700\u7231",
+            "Doro\u6700\u7231",
+            "DORO\u6700\u7231",
+            "\u6843\u4e50\u4e1d\u6700\u7231"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "doro_do": {
+        "keywords": [
+            "doro\u6485",
+            "Doro\u6485",
+            "\u6843\u4e50\u4e1d\u6485"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_kiss": {
+        "keywords": [
+            "\u6843\u4e50\u4e1d\u4eb2",
+            "Doro\u4eb2",
+            "doro\u4eb2"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_knight": {
+        "keywords": [
+            "\u9a91\u58eb",
+            "doro\u9a91\u58eb",
+            "Doro\u9a91\u58eb",
+            "DORO\u9a91\u58eb"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_lick": {
+        "keywords": [
+            "\u6843\u4e50\u4e1d\u8214",
+            "doro\u8214",
+            "Doro\u8214",
+            "DORO\u8214"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_openlight": {
+        "keywords": [
+            "\u5f00\u706f",
+            "\u6843\u4e50\u4e1d\u5f00\u706f",
+            "doro\u5f00\u706f",
+            "Doro\u5f00\u706f",
+            "DORO\u5f00\u706f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_orange": {
+        "keywords": [
+            "\u6b27\u6da6\u5409",
+            "\u6da6\u5409",
+            "\u6da6\u6a58",
+            "\u6a58\u5b50",
+            "\u6a58",
+            "\ud83c\udf4a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "doro_stroke": {
+        "keywords": [
+            "\u629a\u6478",
+            "doro\u629a\u6478",
+            "Doro\u629a\u6478",
+            "\u6843\u4e50\u4e1d\u629a\u6478"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_surrounding_photos": {
+        "keywords": [
+            "\u5468\u8fb9\u5199\u771f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "doro_thumbs_up": {
+        "keywords": [
+            "doro\u70b9\u8d5e",
+            "Doro\u70b9\u8d5e",
+            "DORO\u70b9\u8d5e",
+            "\u6843\u4e50\u4e1d\u70b9\u8d5e"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "doro_trampoline": {
+        "keywords": [
+            "\u8df3\u5e8a",
+            "\u8e66\u5e8a",
+            "doro\u8e66\u5e8a",
+            "\u6843\u4e50\u4e1d\u8e66\u5e8a",
+            "doro\u8df3\u5e8a",
+            "\u6843\u4e50\u4e1d\u8df3\u5e8a"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "doro_work_for_you": {
+        "keywords": [
+            "\u4e3a\u4f60\u6253\u5de5"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "douyin": {
+        "keywords": [
+            "douyin"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "douyin"
+        ]
+    },
+    "dragon_hand": {
+        "keywords": [
+            "\u9f99\u624b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "drumstick": {
+        "keywords": [
+            "\ud83c\udf57",
+            "\u9e21\u817f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "duidi": {
+        "keywords": [
+            "\u603c\u5730",
+            "\u603c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "durian": {
+        "keywords": [
+            "\u69b4\u83b2"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "eat": {
+        "keywords": [
+            "\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "emperor_dragon": {
+        "keywords": [
+            "\u7687\u5e1d\u9f99\u56fe"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": []
+    },
+    "erised_mirror": {
+        "keywords": [
+            "\u610f\u82e5\u601d\u955c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "estrous": {
+        "keywords": [
+            "\u53d1\u60c5"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "fade_away": {
+        "keywords": [
+            "\u7070\u98de\u70df\u706d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "family_know": {
+        "keywords": [
+            "\u5bb6\u4eba\u4eec\u8c01\u61c2\u554a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fanatic": {
+        "keywords": [
+            "\u72c2\u7231",
+            "\u72c2\u7c89"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6d1b\u5929\u4f9d"
+        ]
+    },
+    "fart": {
+        "keywords": [
+            "\u653e\u5c41"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "father_work": {
+        "keywords": [
+            "\u95ed\u5634",
+            "\u6211\u7238\u7238"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fbi_photo": {
+        "keywords": [
+            "fbi",
+            "FBI"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fencing": {
+        "keywords": [
+            "\u51fb\u5251",
+            "\ud83e\udd3a"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "fever": {
+        "keywords": [
+            "\u4e3a\u7231\u53d1\u70e7",
+            "\u53d1\u70e7"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "fight_with_sunuo": {
+        "keywords": [
+            "\u6211\u6253\u5bbf\u50a9",
+            "\u6211\u6253\u5bbf\u50a9\u5417"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "fill_head": {
+        "keywords": [
+            "\u6ee1\u8111\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "find_chips": {
+        "keywords": [
+            "\u6574\u70b9\u85af\u6761"
+        ],
+        "min_images": null,
+        "min_texts": 4,
+        "default_texts": [
+            "\u6211\u4eec\u8981\u98de\u5411\u4f55\u65b9",
+            "\u6211\u6253\u7b97\u5f85\u4f1a\u53bb\u7801\u5934\u6574\u70b9\u85af\u6761",
+            "\u6211\u8bf4\u7684\u662f\u5f52\u6839\u7ed3\u5e95\uff0c\u6d3b\u7740\u662f\u4e3a\u4e86\u4ec0\u4e48",
+            "\u4e3a\u4e86\u5f85\u4f1a\u53bb\u7801\u5934\u6574\u70b9\u85af\u6761"
+        ]
+    },
+    "finger": {
+        "keywords": [
+            "\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "firefly_holdsign": {
+        "keywords": [
+            "\u6d41\u8424\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u8d85\u7231\u4f60"
+        ]
+    },
+    "fireworks_head": {
+        "keywords": [
+            "\u70df\u82b1\u5934\u50cf"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fishing": {
+        "keywords": [
+            "\u9493\u9c7c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "flash_blind": {
+        "keywords": [
+            "\u95ea\u778e"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": [
+            "\u95ea\u778e\u4f60\u4eec\u7684\u72d7\u773c"
+        ]
+    },
+    "fleshlight_air_play": {
+        "keywords": [
+            "\u7a7a\u6c14\u73a9\u6cd5"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_angel": {
+        "keywords": [
+            "\u5929\u4f7f\u5fc3"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_cleaning_liquid": {
+        "keywords": [
+            "\u6e05\u6d17\u6db2"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_commemorative_edition_saint_sister": {
+        "keywords": [
+            "\u7eaa\u5ff5\u7248\u5723\u4fee\u5973"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_hoshino_alice": {
+        "keywords": [
+            "\u5566\u5566\u961f\u5076\u50cf",
+            "\u62c9\u62c9\u961f\u5076\u50cf"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_idol_heartbeat": {
+        "keywords": [
+            "\u5076\u50cf\u5fc3\u8df3"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_jissbon": {
+        "keywords": [
+            "\u6770\u58eb\u90a6"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_kuileishushi": {
+        "keywords": [
+            "\u767d\u4e1d\u58c1\u5973"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_limited_edition_saint_sister": {
+        "keywords": [
+            "\u9650\u5b9a\u7248\u5723\u4fee\u5973"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_liuli_zi": {
+        "keywords": [
+            "\u7409\u7483\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_machinery": {
+        "keywords": [
+            "\u673a\u68b0\u9f99\u5973",
+            "\u673a\u68b0\u9f99\u5973EVA",
+            "\u673a\u68b0\u9f99\u5973eva"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_mengxin_packs": {
+        "keywords": [
+            "\u840c\u65b0\u793c\u5305"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_miyuko_kamimiya": {
+        "keywords": [
+            "\u795e\u5bab\u7f8e\u4f18\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_mizuki_shiranui": {
+        "keywords": [
+            "\u6c34\u57ce\u4e0d\u77e5\u706b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_nrn": {
+        "keywords": [
+            "\u4e73\u5165\u5a18"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_pure_buttocks": {
+        "keywords": [
+            "\u7eaf\u6d01\u81c0"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_purple_spirit": {
+        "keywords": [
+            "\u7d2b\u57df\u7cbe\u7075"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_qiaobenyouxi": {
+        "keywords": [
+            "\u6865\u672c\u53cb\u5e0c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_random": {
+        "keywords": [
+            "\u968f\u673a\u676f\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_saint_sister": {
+        "keywords": [
+            "\u5723\u4fee\u5973"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_saki_haruna": {
+        "keywords": [
+            "\u6625\u5948\u7eb1\u5e0c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_selena": {
+        "keywords": [
+            "\u9b54\u5973\u4e4b\u68ee"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_starter_pack": {
+        "keywords": [
+            "\u65b0\u624b\u793c\u5305"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_summer_liuli_zi": {
+        "keywords": [
+            "\u590f\u65e5\u7409\u7483\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_taimanin_asgi": {
+        "keywords": [
+            "\u5bf9\u9b54\u5fcd"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "fleshlight_xingnai": {
+        "keywords": [
+            "\u674f\u5948"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "flick": {
+        "keywords": [
+            "\u5f39",
+            "\u8111\u74dc\u5d29"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "flush": {
+        "keywords": [
+            "\u7ea2\u6e29"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "fogging": {
+        "keywords": [
+            "\u56de\u5357\u5929",
+            "\u6c34\u96fe"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "follow": {
+        "keywords": [
+            "\u5173\u6ce8"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "frieren_snuggle": {
+        "keywords": [
+            "\u8299\u8389\u83b2\u8d34\u8d34"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "frieren_take": {
+        "keywords": [
+            "\u8299\u8389\u83b2\u62ff"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "funny_mirror": {
+        "keywords": [
+            "\u54c8\u54c8\u955c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "garbage": {
+        "keywords": [
+            "\u5783\u573e",
+            "\u5783\u573e\u6876"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "genshin_eat": {
+        "keywords": [
+            "\u539f\u795e\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "genshin_start": {
+        "keywords": [
+            "\u539f\u795e\u542f\u52a8"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": [
+            "\u539f\u795e\uff0c\u542f\u52a8\uff01"
+        ]
+    },
+    "gif_subtitle": {
+        "keywords": [],
+        "min_images": null,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "gong_xi_fa_cai": {
+        "keywords": [
+            "\u606d\u559c\u53d1\u8d22"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "good_news": {
+        "keywords": [
+            "\u559c\u62a5"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u60b2\u62a5"
+        ]
+    },
+    "google": {
+        "keywords": [
+            "google"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "Google"
+        ]
+    },
+    "google_captcha": {
+        "keywords": [
+            "\u8c37\u6b4c\u9a8c\u8bc1\u7801"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "gorilla_throw": {
+        "keywords": [
+            "\u7329\u7329\u6254"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "guichu": {
+        "keywords": [
+            "\u9b3c\u755c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "gun": {
+        "keywords": [
+            "\u624b\u67aa"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "hammer": {
+        "keywords": [
+            "\u9524"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "handwriting": {
+        "keywords": [
+            "\u624b\u5199"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u597d\uff0c\u4e16\u754c\uff01"
+        ]
+    },
+    "happy_mid_autumn_festival": {
+        "keywords": [
+            "\u4e2d\u79cb\u5feb\u4e50",
+            "\u4e2d\u79cb\u8282\u5feb\u4e50"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "happy_national_day": {
+        "keywords": [
+            "\u56fd\u5e86\u5feb\u4e50",
+            "\u56fd\u5e86\u8282\u5feb\u4e50"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "happy_new_year": {
+        "keywords": [
+            "\u65b0\u5e74\u597d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "haruhi_raise": {
+        "keywords": [
+            "\u51c9\u5bab\u6625\u65e5\u4e3e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "heartbeat": {
+        "keywords": [
+            "\u5fc3\u8df3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "high_EQ": {
+        "keywords": [
+            "\u9ad8\u4f4e\u60c5\u5546",
+            "\u4f4e\u9ad8\u60c5\u5546"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "\u9ad8\u60c5\u5546",
+            "\u4f4e\u60c5\u5546"
+        ]
+    },
+    "hitachi_mako_together": {
+        "keywords": [
+            "\u548c\u5979\u5728\u4e00\u8d77"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "hit_screen": {
+        "keywords": [
+            "\u6253\u7a7f",
+            "\u6253\u7a7f\u5c4f\u5e55"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "hold_grudge": {
+        "keywords": [
+            "\u8bb0\u4ec7"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u7fa4\u53cb\u4e0d\u53d1\u6da9\u56fe"
+        ]
+    },
+    "hold_tight": {
+        "keywords": [
+            "\u62b1\u7d27"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "horse_riding": {
+        "keywords": [
+            "\u9a91\u9a6c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "hug": {
+        "keywords": [
+            "\u62b1",
+            "\u62b1\u62b1"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "hug_leg": {
+        "keywords": [
+            "\u62b1\u5927\u817f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "huochailu": {
+        "keywords": [
+            "\u706b\u67f4\u64b8"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "hutao_bite": {
+        "keywords": [
+            "\u80e1\u6843\u5543"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ice_tea_head": {
+        "keywords": [
+            "\u51b0\u7ea2\u8336"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "ignite": {
+        "keywords": [
+            "\u71c3\u8d77\u6765\u4e86"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ikun_basketball": {
+        "keywords": [
+            "\u7bee\u7403",
+            "\ud83c\udfc0"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ikun_durian_head": {
+        "keywords": [
+            "\u69b4\u83b2\u5764\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "ikun_elastic": {
+        "keywords": [
+            "\u5f39\u5764"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ikun_head": {
+        "keywords": [
+            "\u5c0f\u9ed1\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "ikun_kfc": {
+        "keywords": [
+            "\u80af\u5fb7\u5764"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ikun_like": {
+        "keywords": [
+            "\u5764\u5764\u559c\u6b22"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "ikun_need_tv": {
+        "keywords": [
+            "\u5764\u5764\u60f3\u8981"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "ikun_why_are_you": {
+        "keywords": [
+            "\u4f60\u5e72\u561b",
+            "\u4f60\u5e72\u5417"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "imprison": {
+        "keywords": [
+            "\u5750\u7262"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u53d1\u6da9\u56fe\u88ab\u6293\u8d77\u6765\u4e86"
+        ]
+    },
+    "incivilization": {
+        "keywords": [
+            "\u4e0d\u6587\u660e"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "intel_inside": {
+        "keywords": [
+            "inside"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "intel"
+        ]
+    },
+    "interview": {
+        "keywords": [
+            "\u91c7\u8bbf"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "izumi_sagiri_painting": {
+        "keywords": [
+            "\u548c\u6cc9\u7eb1\u96fe\u753b\u753b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "jd_delivery_person": {
+        "keywords": [
+            "\u4eac\u4e1c\u5916\u5356\u9a91\u624b",
+            "\u4eac\u4e1c\u5916\u5356\u5de5\u724c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "jd_takeout": {
+        "keywords": [
+            "\u4eac\u4e1c\u5916\u5356"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "jerry_stare": {
+        "keywords": [
+            "\u6770\u745e\u76ef"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "jiji_king": {
+        "keywords": [
+            "\u6025\u6025\u56fd\u738b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "jinhsi": {
+        "keywords": [
+            "\u6c50\u6c50",
+            "\u4eca\u6c50"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6c50\u6c50"
+        ]
+    },
+    "jiubingfufa": {
+        "keywords": [
+            "\u65e7\u75c5\u590d\u53d1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "jiujiu": {
+        "keywords": [
+            "\u557e\u557e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "jump": {
+        "keywords": [
+            "\u8df3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kaleidoscope": {
+        "keywords": [
+            "\u4e07\u82b1\u7b52",
+            "\u4e07\u82b1\u955c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "karyl_point": {
+        "keywords": [
+            "\u51ef\u9732\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "keep_away": {
+        "keywords": [
+            "\u8fdc\u79bb"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "keep_your_money": {
+        "keywords": [
+            "\u538b\u5c81\u94b1\u4e0d\u8981\u4ea4\u7ed9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kfc": {
+        "keywords": [
+            "kfc",
+            "KFC",
+            "\u80af\u5fb7\u57fa"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kfc_thursday": {
+        "keywords": [
+            "\u661f\u671f\u56db",
+            "\u75af\u72c2\u661f\u671f\u56db"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kick_ball": {
+        "keywords": [
+            "\u8e22\u7403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kirby_hammer": {
+        "keywords": [
+            "\u5361\u6bd4\u9524",
+            "\u5361\u6bd4\u91cd\u9524"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kiss": {
+        "keywords": [
+            "\u4eb2",
+            "\u4eb2\u4eb2"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "klee_eat": {
+        "keywords": [
+            "\u53ef\u8389\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "knock": {
+        "keywords": [
+            "\u6572"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kokona_seal": {
+        "keywords": [
+            "\u5fc3\u5948\u5370\u7ae0"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6ee1\u5206"
+        ]
+    },
+    "konata_watch": {
+        "keywords": [
+            "\u6cc9\u6b64\u65b9\u770b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_abby_eat": {
+        "keywords": [
+            "\u963f\u5e03\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_abby_lift_high": {
+        "keywords": [
+            "\u4e3e\u9ad8\u9ad8"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_abby_rub": {
+        "keywords": [
+            "\u963f\u5e03\u8d34\u8d34"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_abby_solace": {
+        "keywords": [
+            "\u5b89\u6170",
+            "\u963f\u5e03\u5b89\u6170"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_abby_weeping": {
+        "keywords": [
+            "\u62b1\u5934\u75db\u54ed"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_abby_write": {
+        "keywords": [
+            "\u963f\u5e03\u5199\u4fe1"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u7528\u65b0\u9c9c\u7684\u8089\u70f9\u996a\u51fa\u7684\u6c99\u4e01\u5e03\u5361~\n\u6211\u662f\u6bd4\u8f83\u8001\u6d3e\u7684\u4e03\u4e18\u53e3\u5473\n\u8fd9\u9053\u83dc\u53ef\u4ee5\u6dfb\u52a0\u9002\u91cf\u7684\u8fa3\u6912\n\u4f46\u4e0d\u8981\u5b66\u62c9\u53e4\u90a3\u4eba\u52a0\u5947\u602a\u7684\u9178\u5473\u9171\u554a\uff01"
+        ]
+    },
+    "kurogames_camellya_holdsign": {
+        "keywords": [
+            "\u5927\u50bb\u693f\u4e3e\u724c",
+            "\u50bb\u693f\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5c3d\u60c5\u6323\u624e\uff0c\u522b\u8ba9\u6211\u65e0\u804a\uff01"
+        ]
+    },
+    "kurogames_camellya_photo": {
+        "keywords": [
+            "\u5927\u50bb\u693f\u7167\u7247",
+            "\u50bb\u693f\u7167\u7247"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_camellya_red_hug": {
+        "keywords": [
+            "\u7ea2\u693f\u62b1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_carlotta_holdsign": {
+        "keywords": [
+            "\u73c2\u83b1\u5854\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5341\u8fde\u4e09\u91d1"
+        ]
+    },
+    "kurogames_carlotta_play": {
+        "keywords": [
+            "\u4e00\u8fb9\u73a9\u53bb\u5427",
+            "\u4e00\u8fb9\u73a9\u53bb"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_cartethyia_feetup": {
+        "keywords": [
+            "\u5361\u63d0\u5e0c\u5a05\u62ac\u811a",
+            "\u5361\u63d0\u62ac\u811a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_cartethyia_holdsign": {
+        "keywords": [
+            "\u5361\u63d0\u4e3e\u724c",
+            "\u5361\u63d0\u5e0c\u5a05\u4e3e\u724c",
+            "\u5361\u63d0\u897f\u4e9a\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4e00\u4efd\u9752\u679d\u6708\u6842\u6c99\u62c9\u8c22\u8c22"
+        ]
+    },
+    "kurogames_cartethyia_say": {
+        "keywords": [
+            "\u5361\u63d0\u8bf4",
+            "\u5361\u63d0\u5e0c\u5a05\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u4e0d\u518d\u662f\u90a3\u4e2a\u65e0\u529b\u8ff7\u832b\u3001\u53ea\u80fd\u7b49\u5f85\u4f60\u62ef\u6551\u7684\u5c11\u5973\u4e86\uff0c\u73b0\u5728\u7684\u6211\u5df2\u80fd\u548c\u4f60\u5e76\u80a9\u800c\u6218\uff0c\u4e3a\u4f60\u63d0\u4f9b\u52a9\u76ca\u4e86\u3002"
+        ]
+    },
+    "kurogames_changli_finger": {
+        "keywords": [
+            "\u957f\u79bb\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_changli_holdsign": {
+        "keywords": [
+            "\u957f\u79bb\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5f08\u68cb\u5e03\u52bf\u4e4b\u9053\uff0c\u5982\u540c\u4e07\u7269\u8fd0\u8f6c"
+        ]
+    },
+    "kurogames_chisa_kick": {
+        "keywords": [
+            "\u5343\u54b2\u8e22"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_chisa_say": {
+        "keywords": [
+            "\u5343\u54b2\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u561f\u561f\u561f\u8bf4\u4ec0\u4e48\u5462"
+        ]
+    },
+    "kurogames_good_night": {
+        "keywords": [
+            "\u665a\u5b89"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_gugu_blowfish_small_classes": {
+        "keywords": [
+            "\u5495\u5495\u6cb3\u8c5a\u5c0f\u8bfe\u5802",
+            "\u5c0f\u8bfe\u5802"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u677e\u4f26\u54e5,\u4e0d\u8981\u518d\u6da9\u6da9\u4e86"
+        ]
+    },
+    "kurogames_iuno_holdsign": {
+        "keywords": [
+            "\u5c24\u8bfa\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6708\u76f8\u8f6e\u8f6c\u4e4b\u95f4\uff0c\u6211\u4ee5\u6211\u4e3a\u951a\u70b9"
+        ]
+    },
+    "kurogames_iuno_hug": {
+        "keywords": [
+            "\u5c24\u8bfa\u62b1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_iuno_kick": {
+        "keywords": [
+            "\u5c24\u8bfa\u8e22",
+            "\u4f18\u8bfa\u8e22"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_iuno_peeking": {
+        "keywords": [
+            "\u5c24\u8bfa\u63a2\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_iuno_play": {
+        "keywords": [
+            "\u5c24\u8bfa\u73a9",
+            "\u4f18\u8bfa\u73a9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_iuno_say": {
+        "keywords": [
+            "\u5c24\u8bfa\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6708\u4eae\u6e38\u79bb\u4e16\u95f4"
+        ]
+    },
+    "kurogames_jinhsi_eat": {
+        "keywords": [
+            "\u4eca\u6c50\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_jinhsi_sit": {
+        "keywords": [
+            "\u4eca\u6c50\u5750"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_jinhsi_steamed_buns": {
+        "keywords": [
+            "\u4eca\u6c50\u5c0f\u7b3c\u5305"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_jiyan_holdsign": {
+        "keywords": [
+            "\u5fcc\u708e\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6c14\u52bf\u786e\u6709\u63d0\u5347\uff0c\u60f3\u6765\u4f60\u5bf9\u7ec3\u5175\u4e4b\u9053\u4e5f\u9887\u6709\u7814\u7a76\uff1f"
+        ]
+    },
+    "kurogames_lingyang_holdsign": {
+        "keywords": [
+            "\u51cc\u9633\u4e3e\u724c",
+            "\u96ea\u8c79\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u53eb\u51cc\u9633\uff0c\u6bd4\u8d77\u6211\u6458\u4e0b\u72ee\u5934\u540e\u7684\u8fd9\u5e45\u6a21\u6837\uff0c\u53ef\u80fd\u5927\u5bb6\u66f4\u4e60\u60ef\u7684\uff0c\u8fd8\u662f\u90a3\u4f4d\u6885\u82b1\u6869\u4e0a\u7684\u201c\u72ee\u9996\u201d\u5427\uff1f\u5e0c\u671b\u76f8\u5904\u4e4b\u540e\uff0c\u4f60\u80fd\u8bb0\u4f4f\u8fd9\u4e2a\u539f\u539f\u672c\u672c\u7684\u6211\u5440\u3002"
+        ]
+    },
+    "kurogames_lupa_eat": {
+        "keywords": [
+            "\u9732\u5e15\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_lupa_holdsign": {
+        "keywords": [
+            "\u9732\u5e15\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u7528\u65b0\u9c9c\u7684\u8089\u70f9\u996a\u51fa\u7684\u6c99\u4e01\u5e03\u5361~\u6211\u662f\u6bd4\u8f83\u8001\u6d3e\u7684\u4e03\u4e18\u53e3\u5473\uff0c\u8fd9\u9053\u83dc\u53ef\u4ee5\u6dfb\u52a0\u9002\u91cf\u7684\u8fa3\u6912\uff0c\u4f46\u4e0d\u8981\u5b66\u62c9\u53e4\u90a3\u4eba\u52a0\u5947\u602a\u7684\u9178\u5473\u9171\u554a\uff01"
+        ]
+    },
+    "kurogames_lupa_photo": {
+        "keywords": [
+            "\u9732\u5e15\u7167\u7247"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_mornye_raise": {
+        "keywords": [
+            "\u83ab\u5b81\u4e3e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_mortefi_holdsign": {
+        "keywords": [
+            "\u83ab\u7279\u6590\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4eca\u6c50\u4ee4\u5c39\u4e07\u5c81\uff01"
+        ]
+    },
+    "kurogames_mp": {
+        "keywords": [
+            "\u9e23\u6279",
+            "\u9e23P",
+            "\u9e23p",
+            "\u9e23\u6f6e\u73a9\u5bb6",
+            "\u9e23\u6f6e\u7537"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_nsfw_verina_holdsign": {
+        "keywords": [
+            "\u745f\u745f\u7ef4\u91cc\u5948\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4e0d\u53ef\u4ee5\u8272\u8272"
+        ]
+    },
+    "kurogames_orang": {
+        "keywords": [
+            "\u98de\u5ec9\u4e4b\u7329"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_phoebe_ score_sheet": {
+        "keywords": [
+            "\u83f2\u6bd4\u8bc4\u5206\u8868",
+            "\u8bc4\u5206\u8868"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_phoebe_haha": {
+        "keywords": [
+            "\u54c8\u54c8",
+            "\u83f2\u6bd4\u54c8\u54c8"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_phoebe_holdsign": {
+        "keywords": [
+            "\u83f2\u6bd4\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u662f\u9690\u6d77\u4fee\u4f1a\u7684\u6559\u58eb\uff0c\u83f2\u6bd4\u3002\u5c81\u4e3b\u5728\u4e0a\uff0c\u613f\u4f60\u7684\u65c5\u9014\u6c38\u8fdc\u6709\u7231\u4e0e\u5149\u660e\u5782\u8000\u3002"
+        ]
+    },
+    "kurogames_phoebe_hug": {
+        "keywords": [
+            "\u83f2\u6bd4\u62b1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_phoebe_say": {
+        "keywords": [
+            "\u83f2\u6bd4\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u561f\u561f\u561f\u8bf4\u4ec0\u4e48\u5462"
+        ]
+    },
+    "kurogames_phoebe_trumpet": {
+        "keywords": [
+            "\u83f2\u6bd4\u5587\u53ed"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5c81\u4e3b\u5728\u4e0a\n\u83f2\u6bd4\u6e6b\u6bd4"
+        ]
+    },
+    "kurogames_phrolova_boxer": {
+        "keywords": [
+            "\u5f17\u6d1b\u6d1b\u62f3\u51fb"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_phrolova_eat": {
+        "keywords": [
+            "\u5f17\u6d1b\u6d1b\u5403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_phrolova_holdsign": {
+        "keywords": [
+            "\u5f17\u6d1b\u6d1b\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u662f\u6b8b\u661f\u4f1a\u4f1a\u76d1\u5f17\u6d1b\u6d1b\uff0c\u5b89\u9759\u3001\u5fe7\u90c1\uff0c\u4f3c\u4e4e\u9760\u8fd1\u6211\u5c31\u4f1a\u5760\u5165\u65e0\u5c3d\u7684\u5fe7\u4f24\u4e4b\u4e2d\u3002\u5728\u751f\u6b7b\u4e4b\u95f4\uff0c\u6211\u8c31\u5199\u4e86\u4e00\u7bc7\u53c8\u4e00\u7bc7\u66f2\u8c31\uff0c\u4e0d\u65ad\u6784\u7b51\u7740\u6211\u5fc3\u4e2d\u5b8c\u7f8e\u7684\u4e16\u754c\u3002\u8ba9\u6211\u4eec\u4e00\u8d77\uff0c\u5b8c\u6210\u8fd9\u573a\u4e07\u4f17\u671f\u5f85\u7684\u6f14\u594f\u3002"
+        ]
+    },
+    "kurogames_phrolova_say": {
+        "keywords": [
+            "\u5f17\u6d1b\u6d1b\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u602a\u9e1f\u5728\u9e23\u5578\uff0c\u65f6\u95f4\u5230\u4e86\u3002"
+        ]
+    },
+    "kurogames_roccia_holdsign": {
+        "keywords": [
+            "\u6d1b\u53ef\u53ef\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f69\u6d1b\u809a\u76ae\u7a7a\u7a7a\uff0c\u7075\u611f\u5feb\u6765\u5feb\u6765"
+        ]
+    },
+    "kurogames_rover_cards": {
+        "keywords": [
+            "\u8363\u8000\u4e4b\u4e18"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_rover_head": {
+        "keywords": [
+            "\u6f02\u6cca\u8005\u5934\u50cf\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_rover_holdsign": {
+        "keywords": [
+            "\u6f02\u6cca\u8005\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4e0d\u53ef\u4ee5\u8272\u8272"
+        ]
+    },
+    "kurogames_rover_lick": {
+        "keywords": [
+            "\u6f02\u6cca\u8005\u8214"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_songlun_dinner": {
+        "keywords": [
+            "\u677e\u4f26\u665a\u9910",
+            "\u677e\u4f26\u54e5\u665a\u9910"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_songlun_finger": {
+        "keywords": [
+            "\u677e\u4f26\u6307",
+            "\u6f6e\u6279"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_songlun_holdsign": {
+        "keywords": [
+            "\u674e\u677e\u4f26\u4e3e\u724c",
+            "\u677e\u4f26\u4e3e\u724c",
+            "\u677e\u4f26\u54e5\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u5fc5\u6b6a\u96ea\u8c79"
+        ]
+    },
+    "kurogames_songlun_ridiculed": {
+        "keywords": [
+            "\u677e\u4f26\u7b11"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_songlun_say": {
+        "keywords": [
+            "\u96be\u9053\u8bf4",
+            "\u677e\u4f26\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u9e23\u6f6e\u73a9\u5bb6\u7684\u58f0\u97f3\u592a\u5c16\u9510\u4e86"
+        ]
+    },
+    "kurogames_the_shorekeeper_holdsign": {
+        "keywords": [
+            "\u5b88\u5cb8\u4eba\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u677e\u4f26\u72d7\u7b56\u5212\u592a\u574f\u4e86"
+        ]
+    },
+    "kurogames_verina_finger": {
+        "keywords": [
+            "\u7ef4\u91cc\u5948\u6307",
+            "\u5c0f\u7ef4\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_verina_group_photo": {
+        "keywords": [
+            "\u548c\u7ef4\u91cc\u5948\u5408\u5f71"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_verina_holdsign": {
+        "keywords": [
+            "\u5c0f\u7ef4\u4e3e\u724c",
+            "\u7ef4\u91cc\u5948\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5e0c\u671b\u4f60\u5f00\u5fc3\u54e6"
+        ]
+    },
+    "kurogames_verina_say": {
+        "keywords": [
+            "\u5c0f\u7ef4\u8bf4",
+            "\u7ef4\u91cc\u5948\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5e0c\u671b\u4f60\u5f00\u5fc3\u54e6"
+        ]
+    },
+    "kurogames_yangyang_holdsign": {
+        "keywords": [
+            "\u79e7\u79e7\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u795d\u4f60\u9e23\u6f6e\u5341\u8fde\u4e09\u91d1~"
+        ]
+    },
+    "kurogames_yangyang_love": {
+        "keywords": [
+            "\u79e7\u79e7\u6bd4\u5fc3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_yangyang_lover": {
+        "keywords": [
+            "\u79e7\u79e7\u8001\u516c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_zani_aloft": {
+        "keywords": [
+            "\u8d5e\u59ae\u4e3e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "kurogames_zhezhi_draw": {
+        "keywords": [
+            "\u6298\u679d\u753b\u753b",
+            "\u6298\u679d\u7ed8\u753b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "kurogames_zhezhi_holdsign": {
+        "keywords": [
+            "\u6298\u679d\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u795d\u4f60\u9e23\u6f6e\u73a9\u7684\u5f00\u5fc3"
+        ]
+    },
+    "laughing": {
+        "keywords": [
+            "\u7b11\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "laydown_do": {
+        "keywords": [
+            "\u8eba\u6485"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "learn": {
+        "keywords": [
+            "\u5077\u5b66"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "left_right_jump": {
+        "keywords": [
+            "\u5de6\u53f3\u6a2a\u8df3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "lemon": {
+        "keywords": [
+            "\u67e0\u6aac"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "let_me_in": {
+        "keywords": [
+            "\u8ba9\u6211\u8fdb\u53bb"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "lick_candy": {
+        "keywords": [
+            "\u8214\u7cd6",
+            "\u8214\u68d2\u68d2\u7cd6"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "lim_x_0": {
+        "keywords": [
+            "\u7b49\u4ef7\u65e0\u7a77\u5c0f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "listen_music": {
+        "keywords": [
+            "\u542c\u97f3\u4e50"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "little_angel": {
+        "keywords": [
+            "\u5c0f\u5929\u4f7f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "loading": {
+        "keywords": [
+            "\u52a0\u8f7d\u4e2d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "lochi_mari_play": {
+        "keywords": [
+            "\u739b\u4e3d\u73a9",
+            "\u4f0a\u843d\u739b\u4e3d\u73a9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "look_flat": {
+        "keywords": [
+            "\u770b\u6241"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "look_leg": {
+        "keywords": [
+            "\u770b\u770b\u817f",
+            "\u770b\u770b\u811a"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "look_this_icon": {
+        "keywords": [
+            "\u770b\u56fe\u6807"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "loop": {
+        "keywords": [
+            "\u5faa\u73af"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "lost_dog": {
+        "keywords": [
+            "\u5bfb\u72d7\u542f\u4e8b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "louvre": {
+        "keywords": [
+            "\u5362\u6d6e\u5bab"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "love_you": {
+        "keywords": [
+            "\u6c38\u8fdc\u7231\u4f60"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "luotianyi_need": {
+        "keywords": [
+            "\u6d1b\u5929\u4f9d\u8981",
+            "\u5929\u4f9d\u8981"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "luotianyi_say": {
+        "keywords": [
+            "\u6d1b\u5929\u4f9d\u8bf4",
+            "\u5929\u4f9d\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": []
+    },
+    "luoyonghao_say": {
+        "keywords": [
+            "\u7f57\u6c38\u6d69\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u53c8\u4e0d\u662f\u4e0d\u80fd\u7528"
+        ]
+    },
+    "luxun_say": {
+        "keywords": [
+            "\u9c81\u8fc5\u8bf4",
+            "\u9c81\u8fc5\u8bf4\u8fc7"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u6ca1\u6709\u8bf4\u8fc7\u8fd9\u53e5\u8bdd"
+        ]
+    },
+    "ly01": {
+        "keywords": [
+            "ly01",
+            "ly-1",
+            "LY-1"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mahiro_fuck": {
+        "keywords": [
+            "\u771f\u5bfb\u4e2d\u6307",
+            "\u4e2d\u6307",
+            "\ud83d\udd95\ud83c\udffb"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mahiro_readbook": {
+        "keywords": [
+            "\u771f\u5bfb\u770b\u4e66"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "maimai_awaken": {
+        "keywords": [
+            "\u65c5\u884c\u4f19\u4f34\u89c9\u9192"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "maimai_join": {
+        "keywords": [
+            "\u65c5\u884c\u4f19\u4f34\u52a0\u5165"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "make_friend": {
+        "keywords": [
+            "\u4ea4\u4e2a\u670b\u53cb"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "marriage": {
+        "keywords": [
+            "\u7ed3\u5a5a\u7533\u8bf7",
+            "\u7ed3\u5a5a\u767b\u8bb0"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "masturbate": {
+        "keywords": [
+            "\u5bfc",
+            "\u6253\u98de\u673a"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "merry_christmas": {
+        "keywords": [
+            "\u5723\u8bde\u5feb\u4e50",
+            "\u5723\u8bde\u8282\u5feb\u4e50"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "meteor": {
+        "keywords": [
+            "\u6d41\u661f"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u8981\u5bf9\u8c61"
+        ]
+    },
+    "mihoyo": {
+        "keywords": [
+            "\u7c73\u54c8\u6e38"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_aino_ride": {
+        "keywords": [
+            "\u7231\u8bfa\u9a91"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_amber_frame": {
+        "keywords": [
+            "\u5b89\u67cf\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_bailu_kick": {
+        "keywords": [
+            "\u767d\u9732\u8e22"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_barbara_pegg_frame": {
+        "keywords": [
+            "\u82ad\u82ad\u62c9\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_barbatos_frame": {
+        "keywords": [
+            "\u5df4\u5df4\u6258\u65af",
+            "\u98ce\u795e\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_caribert_alberich_frame": {
+        "keywords": [
+            "\u5361\u5229\u8d1d\u5c14\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_chasca_frame": {
+        "keywords": [
+            "\u6070\u65af\u5361\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_citlali_frame": {
+        "keywords": [
+            "\u831c\u7279\u83c8\u8389\u76f8\u6846",
+            "\u5976\u5976\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_columbina_hug": {
+        "keywords": [
+            "\u5c11\u5973\u62b1",
+            "\u54e5\u4f26\u6bd4\u5a05\u62b1",
+            "\u6708\u795e\u62b1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_columbina_jade_feet": {
+        "keywords": [
+            "\u7389\u8db3"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_duantou": {
+        "keywords": [
+            "\u65ad\u5934",
+            "\u65ad\u5934\u53f0",
+            "\u7f6a\u4eba\u821e\u6b65\u65cb"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_editorial_society_frame": {
+        "keywords": [
+            "\u7f16\u8f91\u534f\u4f1a\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_elysia_come": {
+        "keywords": [
+            "\u7231\u8389\u5e0c\u96c5\u964d\u4e34"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_funina_card": {
+        "keywords": [
+            "\u8299\u8299\u5361\u7247",
+            "\u8299\u5b81\u5a1c\u5361\u7247",
+            "\u8299\u8299\u9171\u5361\u7247"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u66fe\u7ecf\u6211\u662f\u6234\u4e0a\u5047\u9762\u7684\u6f14\u5458\uff0c\u53ea\u60f3\u8981\u63a9\u9970\u771f\u76f8\u2026"
+        ]
+    },
+    "mihoyo_funina_death_penalty": {
+        "keywords": [
+            "\u6b7b\u5211"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_funina_finger": {
+        "keywords": [
+            "\u8299\u8299\u6307",
+            "\u8299\u5b81\u5a1c\u6307",
+            "\u8299\u8299\u9171\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_funina_holdsign": {
+        "keywords": [
+            "\u8299\u5b81\u5a1c\u4e3e\u724c",
+            "\u8299\u8299\u4e3e\u724c",
+            "\u8299\u8299\u9171\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5f53\u90a3\u53e4\u8001\u7684\u9884\u8a00\u7ec8\u7ed3\u3001\u4e00\u5207\u843d\u5e55\u4e4b\u540e\uff0c\u6211\u66fe\u7ecf\u9677\u5165\u5f88\u957f\u65f6\u95f4\u7684\u6d88\u6c89\u3002\u7ad9\u5728\u821e\u53f0\u4e0a\u7684\u4eba\u53d7\u5230\u89c2\u4f17\u7684\u8ffd\u6367\uff0c\u540c\u65f6\u4e5f\u627f\u53d7\u7740\u66f4\u591a\u7684\u6ce8\u89c6\u4e0e\u671f\u5f85\u3002\u4f46\u6211\u5f88\u6e05\u695a\uff0c\u4ed6\u4eec\u671f\u5f85\u7684\u5e76\u4e0d\u662f\u6211\uff0c\u800c\u662f\u6211\u626e\u6f14\u7684\u90a3\u4f4d\u300c\u795e\u660e\u300d...\u5728\u8fd9\u4e2a\u8fc7\u7a0b\u4e2d\uff0c\u6211\u771f\u6b63\u5f97\u5230\u7684\u53ea\u6709\u5b64\u72ec\u3002\u6240\u4ee5\u6211\u4e00\u5ea6\u5e86\u6076\u4efb\u4f55\u8ddf\u8868\u6f14\u6709\u5173\u7684\u4e8b\uff0c\u628a\u81ea\u5df1\u5173\u5728\u623f\u95f4\u91cc\uff0c\u76f4\u5230\u518d\u6b21\u7ad9\u4e0a\u821e\u53f0\u3001\u518d\u6b21\u9762\u5bf9\u89c2\u4f17\u7684\u65f6\u5019\uff0c\u6211\u624d\u53d1\u73b0\u4e0d\u77e5\u4e0d\u89c9\u6211\u5185\u5fc3\u7684\u4e0d\u5b89\u5df2\u7ecf\u6d88\u5931\u4e86\u3002\u73b0\u5728\u7684\u6211\u53ef\u4ee5\u5766\u7136\u627f\u53d7\u4ed6\u4eec\u7684\u76ee\u5149,\u4e5f\u8bb8\u662f\u56e0\u4e3a\u2026\u6211\u7ec8\u4e8e\u5f00\u59cb\u300c\u626e\u6f14\u300d\u6211\u81ea\u5df1\u4e86\u3002"
+        ]
+    },
+    "mihoyo_funina_round_head": {
+        "keywords": [
+            "\u8299\u8299\u5706\u5f62\u5934\u50cf",
+            "\u8299\u5b81\u5a1c\u5706\u5f62\u5934\u50cf"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_funina_square_head": {
+        "keywords": [
+            "\u8299\u8299\u65b9\u5f62\u5934\u50cf",
+            "\u8299\u5b81\u5a1c\u65b9\u5f62\u5934\u50cf"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_gemini_frame": {
+        "keywords": [
+            "\u53cc\u5b50\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_genshin_impact_op": {
+        "keywords": [
+            "OP",
+            "op",
+            "Op",
+            "oP"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_genshin_impact_players": {
+        "keywords": [
+            "\u539f\u6279",
+            "\u539f\u795e\u73a9\u5bb6"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_guoba_frame": {
+        "keywords": [
+            "\u9505\u5df4\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_hilichurl_frame": {
+        "keywords": [
+            "\u4e18\u4e18\u4eba\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_hutao_frame": {
+        "keywords": [
+            "\u80e1\u6843\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_hutao_holdsign": {
+        "keywords": [
+            "\u80e1\u6843\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u55ef\u54fc\uff0c\u592a\u9633\u51fa\u6765\u6211\u6652\u592a\u9633\uff0c\u6708\u4eae\u51fa\u6765\u6211\u6652\u6708\u4eae\u561e"
+        ]
+    },
+    "mihoyo_ineffa_droid": {
+        "keywords": [
+            "\u4eba\u673a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_kaveh_frame": {
+        "keywords": [
+            "\u5361\u7ef4\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_keqing_pointo": {
+        "keywords": [
+            "\u523b\u6674\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_kirara_delivery": {
+        "keywords": [
+            "\u7eee\u826f\u826f\u6d3e\u9001",
+            "\u6d3e\u9001"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_klee_duduke_frame": {
+        "keywords": [
+            "\u53ef\u8389\u561f\u561f\u53ef\u76f8\u6846",
+            "\u561f\u561f\u53ef"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_klee_frame": {
+        "keywords": [
+            "\u53ef\u8389\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_klee_hat_frame": {
+        "keywords": [
+            "\u53ef\u8389\u5e3d\u5b50\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_kujou_sara_frame": {
+        "keywords": [
+            "\u4e5d\u6761\u88df\u7f57\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_kuki_shinobu_frame": {
+        "keywords": [
+            "\u4e45\u5c90\u5fcd\u76f8\u6846",
+            "\u963f\u5fcd\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_kuki_shinobu_who": {
+        "keywords": [
+            "\u6b64\u4eba\u662f\u8c01",
+            "\u662f\u8c01",
+            "\u662f\u8c01\uff1f",
+            "\u662f\u8c01\uff1f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_lce_slime_frame": {
+        "keywords": [
+            "\u51b0\u53f2\u83b1\u59c6\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_liuwei_dinner": {
+        "keywords": [
+            "\u5218\u4f1f\u665a\u9910",
+            "\u5171\u8fdb\u665a\u9910",
+            "\u5927\u4f1f\u54e5\u665a\u9910"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_liuwei_holdsign": {
+        "keywords": [
+            "\u5218\u4f1f\u4e3e\u724c",
+            "\u5927\u4f1f\u4e3e\u724c",
+            "\u5927\u4f1f\u54e5\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u7684\u58f0\u97f3\u592a\u5c16\u9510\u4e86"
+        ]
+    },
+    "mihoyo_liuwei_noise": {
+        "keywords": [
+            "\u58f0\u97f3",
+            "\u5c16\u9510\u7684\u58f0\u97f3"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_liuwei_say": {
+        "keywords": [
+            "\u5218\u4f1f\u8bf4",
+            "\u5927\u4f1f\u8bf4",
+            "\u5927\u4f1f\u54e5\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u7684\u58f0\u97f3\u592a\u5c16\u9510\u4e86"
+        ]
+    },
+    "mihoyo_lynette_holdsign": {
+        "keywords": [
+            "\u7433\u59ae\u7279\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6797\u5c3c\u5927\u7b28\u86cb"
+        ]
+    },
+    "mihoyo_navia_caspar_persuade": {
+        "keywords": [
+            "\u8bf4\u670d"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_neuvillette_say": {
+        "keywords": [
+            "\u90a3\u7ef4\u83b1\u7279\u8bf4",
+            "\u6c34\u9f99\u738b\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6f6e\u6c34\u554a\uff0c\u6211\u5df2\u5f52\u6765"
+        ]
+    },
+    "mihoyo_outlander_frame": {
+        "keywords": [
+            "\u5f02\u4e61\u4eba\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_paimon_crown": {
+        "keywords": [
+            "\u6d3e\u8499\u738b\u51a0",
+            "\u6d3e\u8499\u7687\u51a0",
+            "\ud83d\udc51"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_paimon_emergency_food_frame": {
+        "keywords": [
+            "\u5e94\u6025\u98df\u54c1\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_paimon_frame": {
+        "keywords": [
+            "\u6d3e\u8499\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_paimon_say": {
+        "keywords": [
+            "\u6d3e\u8499\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u524d\u9762\u7684\u533a\u57df\n\u4ee5\u540e\u518d\u6765\u63a2\u7d22\u5427\uff1f"
+        ]
+    },
+    "mihoyo_qiqi_suck": {
+        "keywords": [
+            "\u4e03\u4e03\u8214"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_sangonomiya_kokomi_love": {
+        "keywords": [
+            "\u5fc3\u6d77\u7231\u5fc3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mihoyo_senior_phone": {
+        "keywords": [
+            "\u7c73\u5b66\u957f\u624b\u673a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_shikanoin_heizou_frame": {
+        "keywords": [
+            "\u9e7f\u91ce\u9662\u5e73\u85cf\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_sigewinne_fingered": {
+        "keywords": [
+            "\u6ca1\u6551\u4e86",
+            "\u5e0c\u683c\u96ef\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_tartaglia_frame": {
+        "keywords": [
+            "\u8fbe\u8fbe\u5229\u4e9a\u76f8\u6846",
+            "\u963f\u8d3e\u514b\u65af\u76f8\u6846",
+            "\u516c\u5b50\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_tepetlisauri_frame": {
+        "keywords": [
+            "\u5d74\u950b\u9f99\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_thunderbolt_slime_frame": {
+        "keywords": [
+            "\u96f7\u53f2\u83b1\u59c6\u76f8\u6846",
+            "\u96f7\u7535\u53f2\u83b1\u59c6\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_traveler_frame": {
+        "keywords": [
+            "\u65c5\u884c\u8005\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_wind_slime_frame": {
+        "keywords": [
+            "\u98ce\u53f2\u83b1\u59c6\u76f8\u6846"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mihoyo_yelan_phone": {
+        "keywords": [
+            "\u591c\u5170\u624b\u673a"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "miss_in_my_sleep": {
+        "keywords": [
+            "\u7761\u68a6\u4e2d\u60f3\u5ff5"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mixue": {
+        "keywords": [
+            "\u871c\u96ea\u51b0\u57ce"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mixue_jasmine_milk_green": {
+        "keywords": [
+            "\u8309\u8389\u5976\u7eff"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mixue_stick_beaten_fresh_orange": {
+        "keywords": [
+            "\u68d2\u6253\u9c9c\u6a59"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "mi_leijun_holdsign": {
+        "keywords": [
+            "\u96f7\u519b\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "Are you OK ?"
+        ]
+    },
+    "mi_monkey": {
+        "keywords": [
+            "\u7c73\u7334",
+            "\ud83d\udc12",
+            "\ud83d\udc35"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "mourning": {
+        "keywords": [
+            "\u4e0a\u9999"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "murmur": {
+        "keywords": [
+            "\u4f4e\u8bed"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u7684\u5047\u671f\u4f59\u989d\u4e0d\u8db3"
+        ]
+    },
+    "mygo_sakiko_togawa": {
+        "keywords": [
+            "\u4e30\u5ddd\u7965\u5b50",
+            "\u7965\u5b50",
+            "\u8c4a\u5ddd\u7965\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "my_friend": {
+        "keywords": [
+            "\u6211\u670b\u53cb\u8bf4"
+        ],
+        "min_images": 1,
+        "min_texts": 1,
+        "default_texts": [
+            "\u8ba9\u6211\u5eb7\u5eb7"
+        ]
+    },
+    "my_opinion": {
+        "keywords": [
+            "\u6211\u7684\u610f\u89c1\u5982\u4e0b",
+            "\u6211\u7684\u610f\u89c1\u662f"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": []
+    },
+    "my_wife": {
+        "keywords": [
+            "\u6211\u8001\u5a46",
+            "\u8fd9\u662f\u6211\u8001\u5a46"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "nahida_bite": {
+        "keywords": [
+            "\u7eb3\u897f\u59b2\u5543",
+            "\u8349\u795e\u5543"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "nakano_lchika": {
+        "keywords": [
+            "\u4e2d\u91ce\u4e00\u82b1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "nakano_ltsuki": {
+        "keywords": [
+            "\u4e2d\u91ce\u4e94\u6708"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "nakano_miku": {
+        "keywords": [
+            "\u4e2d\u91ce\u4e09\u7396"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "nakano_nino": {
+        "keywords": [
+            "\u4e2d\u91ce\u4e8c\u4e43"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "nakano_yotsuba": {
+        "keywords": [
+            "\u4e2d\u91ce\u56db\u53f6"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "name_generator": {
+        "keywords": [
+            "\u4e9a\u6587\u5316\u53d6\u540d\u673a",
+            "\u4e9a\u540d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "naruro_resurrection": {
+        "keywords": [
+            "\u590d\u6d3b",
+            "\u7acb\u5373\u590d\u6d3b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "naruro_s_ninja": {
+        "keywords": [
+            "S\u5fcd",
+            "s\u5fcd"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "naruro_uzumaki_naruto_holdsign": {
+        "keywords": [
+            "\u9e23\u4eba\u4e3e\u724c",
+            "\u6f29\u6da1\u9e23\u4eba\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u624d\u4e0d\u8981\u5728\u8fd9\u79cd\u65f6\u5019\u653e\u5f03,\u5373\u4f7f\u5f53\u4e0d\u6210\u4e2d\u5fcd,\u6211\u4e5f\u4f1a\u901a\u8fc7\u5176\u4ed6\u7684\u9014\u5f84\u6210\u4e3a\u706b\u5f71\u7684,\u8fd9\u5c31\u662f\u6211\u7684\u5fcd\u9053 "
+        ]
+    },
+    "naruto_bagua_seal": {
+        "keywords": [
+            "\u516b\u5366\u5c01\u5370"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "naruto_uchiha_itachi_say": {
+        "keywords": [
+            "\u9f2c\u8bf4",
+            "\u5b87\u667a\u6ce2\u9f2c\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f0a\u90aa\u90a3\u7f8e"
+        ]
+    },
+    "naruto_yakushi_kabuto_say": {
+        "keywords": [
+            "\u836f\u5e08\u515c\u8bf4",
+            "\u515c\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4ed9\u6cd5\u767d\u6fc0\u4e4b\u672f"
+        ]
+    },
+    "national_day_plan": {
+        "keywords": [
+            "\u56fd\u5e86\u8ba1\u5212",
+            "\u56fd\u5e86\u8282\u8ba1\u5212"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "need": {
+        "keywords": [
+            "\u9700\u8981",
+            "\u4f60\u53ef\u80fd\u9700\u8981"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "nekoha_holdsign": {
+        "keywords": [
+            "\u732b\u7fbd\u96eb\u4e3e\u724c",
+            "\u732b\u732b\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "V\u621150"
+        ]
+    },
+    "new_goodnews": {
+        "keywords": [
+            "\u65b0\u559c\u62a5"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": [
+            "\u5929\u547d\u4e4b\u4eba",
+            "\u559c\u62a5\u4f20\u4f73\u8baf\n\u798f\u661f\u9ad8\u7167\n\u6ee1\u95e8\u5ead"
+        ]
+    },
+    "nijika_holdsign": {
+        "keywords": [
+            "\u4f0a\u5730\u77e5\u8679\u590f\u4e3e\u724c",
+            "\u8679\u590f\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u53ef\u5c11\u770b\u70b9\u4e8c\u6b21\u5143\u5427"
+        ]
+    },
+    "nokia": {
+        "keywords": [
+            "\u8bfa\u57fa\u4e9a",
+            "\u6709\u5185\u9b3c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u65e0\u5185\u9b3c\uff0c\u7ee7\u7eed\u4ea4\u6613"
+        ]
+    },
+    "note_for_leave": {
+        "keywords": [
+            "\u8bf7\u5047\u6761"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "not_call_me": {
+        "keywords": [
+            "\u4e0d\u558a\u6211"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5f00\u94f6\u8db4\u4e0d\u558a\u6211\u662f\u5427"
+        ]
+    },
+    "no_response": {
+        "keywords": [
+            "\u65e0\u54cd\u5e94"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "ok": {
+        "keywords": [
+            "ok",
+            "OK",
+            "Ok"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "oral_sex": {
+        "keywords": [
+            "\u53e3"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "orange_head": {
+        "keywords": [
+            "\u6a58\u5b50\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "oshi_no_ko": {
+        "keywords": [
+            "\u6211\u63a8\u7684\u7f51\u53cb"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": [
+            "\u7f51\u53cb"
+        ]
+    },
+    "osu": {
+        "keywords": [
+            "osu"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "hso!"
+        ]
+    },
+    "out": {
+        "keywords": [
+            "out"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "overtime": {
+        "keywords": [
+            "\u52a0\u73ed"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "p5letter": {
+        "keywords": [
+            "\u5973\u795e\u5f02\u95fb\u5f555\u9884\u544a\u4fe1",
+            "P5\u9884\u544a\u4fe1"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "TAKEYOURHEART"
+        ]
+    },
+    "paint": {
+        "keywords": [
+            "\u8fd9\u50cf\u753b\u5417"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "painter": {
+        "keywords": [
+            "\u5c0f\u753b\u5bb6"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "palworld_chillet": {
+        "keywords": [
+            "\u75be\u98ce\u9f2c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "palworld_chillet_god_wealth": {
+        "keywords": [
+            "\u8d22\u6e90\u6eda\u6eda",
+            "\u8d22\u795e\u5230"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "panda_dragon_figure": {
+        "keywords": [
+            "\u718a\u732b\u9f99\u56fe"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u8981\u73a9\u539f\u795e"
+        ]
+    },
+    "pass_the_buck": {
+        "keywords": [
+            "\u63a8\u9505",
+            "\u7529\u9505"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": [
+            "\u4f60\u5199!"
+        ]
+    },
+    "pat": {
+        "keywords": [
+            "\u62cd"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pay_to_watch": {
+        "keywords": [
+            "\u4ed8\u8d39\u89c2\u770b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "peas": {
+        "keywords": [
+            "\u6211\u561e\u4e2a\u8c46",
+            "\u8c46"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pepe_raise": {
+        "keywords": [
+            "\u4f69\u4f69\u4e3e"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "perfect": {
+        "keywords": [
+            "\u5b8c\u7f8e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "petpet": {
+        "keywords": [
+            "\u6478",
+            "\u6478\u6478",
+            "\u6478\u5934",
+            "rua"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "picking_flowers": {
+        "keywords": [
+            "\u6458\u82b1"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pierrot_plus_head": {
+        "keywords": [
+            "\u62fe\u53c8\u4e4b\u56fd"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "pinch": {
+        "keywords": [
+            "\u634f",
+            "\u634f\u8138"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pineapples": {
+        "keywords": [
+            "\ud83c\udf4d",
+            "\u83e0\u841d\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "pixelate": {
+        "keywords": [
+            "\u50cf\u7d20\u5316"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pjsk": {
+        "keywords": [
+            "pjsk",
+            "\u4e16\u754c\u8ba1\u5212"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": []
+    },
+    "plana_eat": {
+        "keywords": [
+            "\u666e\u62c9\u5a1c\u5403",
+            "\u666e\u62c9\u5a1c\u8214"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "play": {
+        "keywords": [
+            "\u9876",
+            "\u73a9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "play_baseball": {
+        "keywords": [
+            "\u6253\u68d2\u7403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "play_basketball": {
+        "keywords": [
+            "\u6253\u7bee\u7403",
+            "\u706b\u67f4\u4eba\u6253\u7bee\u7403"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "play_game": {
+        "keywords": [
+            "\u73a9\u6e38\u620f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "play_together": {
+        "keywords": [
+            "\u4e00\u8d77\u73a9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "please_waiting": {
+        "keywords": [
+            "\u8bf7\u7a0d\u5019"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "police": {
+        "keywords": [
+            "\u51fa\u8b66"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "pornhub": {
+        "keywords": [
+            "ph",
+            "pornhub"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "You",
+            "Tube"
+        ]
+    },
+    "potato": {
+        "keywords": [
+            "\u571f\u8c46"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "potato_mines": {
+        "keywords": [
+            "\u571f\u8c46\u5730\u96f7"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pound": {
+        "keywords": [
+            "\u6363"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pregnancy_test": {
+        "keywords": [
+            "\u9a8c\u5b55\u68d2"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "printing": {
+        "keywords": [
+            "\u6253\u5370"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "prpr": {
+        "keywords": [
+            "\u8214",
+            "\u8214\u5c4f",
+            "prpr"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "psyduck": {
+        "keywords": [
+            "\u53ef\u8fbe\u9e2d"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "\u6765\u4efd",
+            "\u6da9\u56fe"
+        ]
+    },
+    "punch": {
+        "keywords": [
+            "\u6253\u62f3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "pyramid": {
+        "keywords": [
+            "\u56db\u68f1\u9525",
+            "\u91d1\u5b57\u5854"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "qixi_festival": {
+        "keywords": [
+            "\u4e03\u5915\u548c\u8c01\u8fc7",
+            "\u4e03\u5915\u548c\u8c01\u8fc7?",
+            "\u4e03\u5915\u548c\u8c01\u8fc7\uff1f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "quilt": {
+        "keywords": [
+            "\u88ab\u7a9d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "rabbit": {
+        "keywords": [
+            "\ud83d\udc07",
+            "\u5154\u5b50",
+            "\u5154",
+            "\u5154\u8033\u5e3d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "raise_image": {
+        "keywords": [
+            "\u4e3e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "raise_sign": {
+        "keywords": [
+            "\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5927\u4f6c\u5e26\u5e26\u6211"
+        ]
+    },
+    "read_book": {
+        "keywords": [
+            "\u770b\u4e66"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "read_love_letters": {
+        "keywords": [
+            "\u770b\u60c5\u4e66"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "remote_control": {
+        "keywords": [
+            "\u9065\u63a7",
+            "\u63a7\u5236"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "repeat": {
+        "keywords": [
+            "\u590d\u8bfb"
+        ],
+        "min_images": 1,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6551\u547d\u554a"
+        ]
+    },
+    "rip": {
+        "keywords": [
+            "\u6495"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "rip_angrily": {
+        "keywords": [
+            "\u6012\u6495"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "rip_clothes": {
+        "keywords": [
+            "\u6495\u8863\u670d"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "rise_dead": {
+        "keywords": [
+            "\u8bc8\u5c38",
+            "\u79fd\u571f\u8f6c\u751f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "roll": {
+        "keywords": [
+            "\u6eda"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "rotate_3d": {
+        "keywords": [
+            "\u4e09\u7ef4\u65cb\u8f6c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "rub": {
+        "keywords": [
+            "\u8d34",
+            "\u8d34\u8d34",
+            "\u8e6d",
+            "\u8e6d\u8e6d"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "run": {
+        "keywords": [
+            "\u5feb\u8dd1"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5feb\u8dd1"
+        ]
+    },
+    "rune": {
+        "keywords": [
+            "\u7b26\u5492"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "run_away": {
+        "keywords": [
+            "\u5feb\u9003"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "safe_sense": {
+        "keywords": [
+            "\u5b89\u5168\u611f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "saimin_app": {
+        "keywords": [
+            "\u50ac\u7720app"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "scissor_seven_head": {
+        "keywords": [
+            "\u4f0d\u516d\u4e03",
+            "\u963f\u4e03"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "scratchcard": {
+        "keywords": [
+            "\u522e\u522e\u4e50"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u8c22\u8c22\u53c2\u4e0e"
+        ]
+    },
+    "scratch_head": {
+        "keywords": [
+            "\u6320\u5934"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "scroll": {
+        "keywords": [
+            "\u6eda\u5c4f"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u4eec\u8bf4\u8bdd\u554a"
+        ]
+    },
+    "seal": {
+        "keywords": [
+            "\u6e90\u77f3\u5c01\u5370"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "sekaiichi_kawaii": {
+        "keywords": [
+            "\u4e16\u754c\u7b2c\u4e00\u53ef\u7231"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "sending_love": {
+        "keywords": [
+            "\u6bd4\u5fc3"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "shake_head": {
+        "keywords": [
+            "\u6643\u8111"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "shamate": {
+        "keywords": [
+            "\u6740\u9a6c\u7279"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "shikanoko_noko": {
+        "keywords": [
+            "\u9e7f\u4e43\u5b50\u4e43\u5b50",
+            "\u9e7f\u4e43\u5b50"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "shipborne_laser_weapons": {
+        "keywords": [
+            "\u8230\u8f7d\u6fc0\u5149\u6b66\u5668"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "shiroko_pero": {
+        "keywords": [
+            "\u767d\u5b50\u8214"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "shock": {
+        "keywords": [
+            "\u9707\u60ca"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "shuai": {
+        "keywords": [
+            "\u7529"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "shutup": {
+        "keywords": [
+            "\u522b\u8bf4\u4e86"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u4e0d\u8981\u518d\u8bf4\u4e86"
+        ]
+    },
+    "sitdown_do": {
+        "keywords": [
+            "\u5750\u6485"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "sit_still": {
+        "keywords": [
+            "\u5750\u5f97\u4f4f",
+            "\u5750\u7684\u4f4f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "slacking_off": {
+        "keywords": [
+            "\u6478\u9c7c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "slap": {
+        "keywords": [
+            "\u4e00\u5df4\u638c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": []
+    },
+    "slogan": {
+        "keywords": [
+            "\u53e3\u53f7"
+        ],
+        "min_images": null,
+        "min_texts": 6,
+        "default_texts": [
+            "\u6211\u4eec\u662f\u8c01\uff1f",
+            "\u6d59\u5927\u4eba\uff01",
+            "\u5230\u6d59\u5927\u6765\u505a\u4ec0\u4e48\uff1f",
+            "\u6df7\uff01",
+            "\u5c06\u6765\u6bd5\u4e1a\u540e\u8981\u505a\u4ec0\u4e48\u6837\u7684\u4eba\uff1f",
+            "\u6df7\u6df7\uff01"
+        ]
+    },
+    "small_hands": {
+        "keywords": [
+            "\u5c0f\u624b"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "smash": {
+        "keywords": [
+            "\u7838"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "sold_out": {
+        "keywords": [
+            "\u5356\u6389\u4e86"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "something": {
+        "keywords": [
+            "\u4ec0\u4e48\u4e1c\u897f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "speechless": {
+        "keywords": [
+            "\u65e0\u8bed"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "spend_christmas": {
+        "keywords": [
+            "\u4e00\u8d77\u5723\u8bde"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "sphere_rotate": {
+        "keywords": [
+            "\u7403\u9762\u65cb\u8f6c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "spider": {
+        "keywords": [
+            "\u8718\u86db",
+            "\u8718\u86db\u722c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "stare_at_you": {
+        "keywords": [
+            "\u76ef\u7740\u4f60"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "steam_message": {
+        "keywords": [
+            "steam\u6d88\u606f"
+        ],
+        "min_images": 1,
+        "min_texts": 1,
+        "default_texts": [
+            "\u9ed1\u795e\u8bdd\uff1a\u609f\u7a7a"
+        ]
+    },
+    "step_on": {
+        "keywords": [
+            "\u8e29"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "stew": {
+        "keywords": [
+            "\u7096"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "stickman_dancing": {
+        "keywords": [
+            "\u8df3\u821e",
+            "\u706b\u67f4\u4eba\u8df3\u821e"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "subject3": {
+        "keywords": [
+            "\u79d1\u76ee\u4e09"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "suck": {
+        "keywords": [
+            "\u5438",
+            "\u55e6"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "support": {
+        "keywords": [
+            "\u7cbe\u795e\u652f\u67f1"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "swimsuit_group_photo": {
+        "keywords": [
+            "\u6cf3\u8863\u5408\u5f71",
+            "\u6bd4\u57fa\u5c3c\u5408\u5f71"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "swirl_turn": {
+        "keywords": [
+            "\u56de\u65cb\u8f6c",
+            "\u65cb\u98ce\u8f6c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "symmetric": {
+        "keywords": [
+            "\u5bf9\u79f0"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "tankuku_raisesign": {
+        "keywords": [
+            "\u5510\u53ef\u53ef\u4e3e\u724c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "taunt": {
+        "keywords": [
+            "\u5632\u8bbd"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "teach": {
+        "keywords": [
+            "\u8bb2\u8bfe",
+            "\u6572\u9ed1\u677f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "tease": {
+        "keywords": [
+            "\u62ff\u634f",
+            "\u620f\u5f04"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "telescope": {
+        "keywords": [
+            "\u671b\u8fdc\u955c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "tencent_marco_polo_ride": {
+        "keywords": [
+            "\u9a6c\u514b\u9a91",
+            "\u9a6c\u53ef\u6ce2\u7f57\u9a91"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "tencent_np": {
+        "keywords": [
+            "\u519cP",
+            "\u519c\u6279"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "thermometer_gun": {
+        "keywords": [
+            "\u4f53\u6e29\u67aa"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "think_what": {
+        "keywords": [
+            "\u60f3\u4ec0\u4e48"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "this_chicken": {
+        "keywords": [
+            "\u8fd9\u662f\u9e21",
+            "\ud83d\udc14"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "throw": {
+        "keywords": [
+            "\u4e22",
+            "\u6254"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "throwing_poop": {
+        "keywords": [
+            "\u6254\u53f2"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "throw_gif": {
+        "keywords": [
+            "\u629b",
+            "\u63b7"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "thump": {
+        "keywords": [
+            "\u6376"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "thump_wildly": {
+        "keywords": [
+            "\u6376\u7206",
+            "\u7206\u6376"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "tightly": {
+        "keywords": [
+            "\u7d27\u8d34",
+            "\u7d27\u7d27\u8d34\u7740"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "time_to_go": {
+        "keywords": [
+            "\u8be5\u8d70\u4e86"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "together": {
+        "keywords": [
+            "\u4e00\u8d77"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "together_two": {
+        "keywords": [
+            "\u5728\u4e00\u8d77"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "tomb_yeah": {
+        "keywords": [
+            "\u4e0a\u575f",
+            "\u575f\u524d\u6bd4\u8036"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "tom_tease": {
+        "keywords": [
+            "\u6c64\u59c6\u5632\u7b11"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "top_notch": {
+        "keywords": [
+            "\u9876\u5c16"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u8fd0\u8425"
+        ]
+    },
+    "torture_yourself": {
+        "keywords": [
+            "\u6298\u78e8\u81ea\u5df1"
+        ],
+        "min_images": 2,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "trance": {
+        "keywords": [
+            "\u604d\u60da"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "trolley": {
+        "keywords": [
+            "\u63a8\u8f66"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "turn": {
+        "keywords": [
+            "\u8f6c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "twist": {
+        "keywords": [
+            "\u6413"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "universal": {
+        "keywords": [
+            "\u4e07\u80fd\u8868\u60c5",
+            "\u7a7a\u767d\u8868\u60c5"
+        ],
+        "min_images": 1,
+        "min_texts": 1,
+        "default_texts": [
+            "\u5728\u6b64\u5904\u6dfb\u52a0\u6587\u5b57"
+        ]
+    },
+    "upside_down": {
+        "keywords": [
+            "\u53cd\u4e86"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "up_to": {
+        "keywords": [
+            "\u5e72\u561b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "vibrate": {
+        "keywords": [
+            "\u9707\u52a8"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "vme50": {
+        "keywords": [
+            "V\u621150",
+            "v\u621150"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "wakeup": {
+        "keywords": [
+            "\u597d\u8d77\u6765\u4e86"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u597d"
+        ]
+    },
+    "wallpaper": {
+        "keywords": [
+            "\u5899\u7eb8"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "walnut_pad": {
+        "keywords": [
+            "\u80e1\u6843\u5e73\u677f"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "walnut_zoom": {
+        "keywords": [
+            "\u80e1\u6843\u653e\u5927"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "washer": {
+        "keywords": [
+            "\u6d17\u8863\u673a"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "wave": {
+        "keywords": [
+            "\u6ce2\u7eb9"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "wechat_pay": {
+        "keywords": [
+            "\u5fae\u4fe1\u652f\u4ed8"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "what_he_wants": {
+        "keywords": [
+            "\u6700\u60f3\u8981\u7684\u4e1c\u897f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": [
+            "\u4eca\u5e74520"
+        ]
+    },
+    "what_I_want_to_do": {
+        "keywords": [
+            "\u6211\u60f3\u4e0a\u7684"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "whisper": {
+        "keywords": [
+            "\u7a83\u7a83\u79c1\u8bed"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "why_at_me": {
+        "keywords": [
+            "\u4e3a\u4ec0\u4e48@\u6211"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "why_have_hands": {
+        "keywords": [
+            "\u4e3a\u4ec0\u4e48\u8981\u6709\u624b"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "widow": {
+        "keywords": [
+            "\u672a\u4ea1\u4eba"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "windmill_turn": {
+        "keywords": [
+            "\u98ce\u8f66\u8f6c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "wish_fail": {
+        "keywords": [
+            "\u8bb8\u613f\u5931\u8d25"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u6211\u8981\u5bf9\u8c61"
+        ]
+    },
+    "wooden_fish": {
+        "keywords": [
+            "\u6728\u9c7c"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "worship": {
+        "keywords": [
+            "\u819c",
+            "\u819c\u62dc"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "wujing": {
+        "keywords": [
+            "\u5434\u4eac\u4e2d\u56fd"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "\u4e0d\u4e70\u534e\u4e3a\u4e0d\u662f",
+            "\u4eba"
+        ]
+    },
+    "xiluo_disgust": {
+        "keywords": [
+            "\u5e0c\u7f57\u5acc\u5f03",
+            "\u4e8c\u9636\u5802\u5e0c\u7f57\u5acc\u5f03"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "xueli_say": {
+        "keywords": [
+            "\u96ea\u8389\u8bf4",
+            "\u96ea\u68a8\u8bf4",
+            "\u6a58\u96ea\u8389\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4f60\u662f\u9ad8\u624b\uff1f"
+        ]
+    },
+    "xueli_think": {
+        "keywords": [
+            "\u96ea\u8389\u60f3",
+            "\u96ea\u68a8\u60f3",
+            "\u6a58\u96ea\u8389\u60f3"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yes": {
+        "keywords": [
+            "yes",
+            "Yes",
+            "YES"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yeshu": {
+        "keywords": [
+            "\u6930\u6811\u6930\u6c41"
+        ],
+        "min_images": null,
+        "min_texts": 8,
+        "default_texts": [
+            "\u6930\u5b50\u7279\u4ea7\u5728\u6d77\u5357",
+            "\u6b63\u5b97",
+            "\u6930\u6811",
+            "29\u5e74",
+            "\u575a\u6301\u5728\u6d77\u5357\u5c9b",
+            "\u7528\u65b0\u9c9c\u6930\u5b50\u8089",
+            "\u9c9c\u69a8",
+            "\u4e0d\u7528\u6930\u6d46\n\u4e0d\u52a0\u9999\u7cbe\u5f53\u751f\u69a8"
+        ]
+    },
+    "your_new_years_eve": {
+        "keywords": [
+            "\u4f60\u7684\u8de8\u5e74"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "youtube": {
+        "keywords": [
+            "yt",
+            "youtube"
+        ],
+        "min_images": null,
+        "min_texts": 2,
+        "default_texts": [
+            "Porn",
+            "Hub"
+        ]
+    },
+    "you_dont_get": {
+        "keywords": [
+            "\u4f60\u4e0d\u61c2\u5566"
+        ],
+        "min_images": 1,
+        "min_texts": null,
+        "default_texts": []
+    },
+    "you_should_call": {
+        "keywords": [
+            "\u81f4\u7535",
+            "\u4f60\u5e94\u8be5\u81f4\u7535"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_ayachi_nene": {
+        "keywords": [
+            "\u5b81\u5b81\u56f0\u60d1",
+            "\u7eeb\u5730\u5b81\u5b81\u56f0\u60d1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_ciallo": {
+        "keywords": [
+            "ciallo",
+            "ciallo~"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_holdsign": {
+        "keywords": [
+            "\u67da\u5b50\u53a8\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4e0d\u8981\u518d\u6da9\u6da9\u4e86"
+        ]
+    },
+    "yuzu_soft_ignore": {
+        "keywords": [
+            "\u89c6\u82e5\u65e0\u7779"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_mako_hitachi_holdsign": {
+        "keywords": [
+            "\u5e38\u9678\u8309\u5b50\u4e3e\u724c",
+            "\u8309\u5b50\u4e3e\u724c",
+            "\u5e38\u9646\u8309\u5b50\u4e3e\u724c"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "Ciallo\uff5e"
+        ]
+    },
+    "yuzu_soft_murasame_blackboard": {
+        "keywords": [
+            "\u4e1b\u96e8\u9ed1\u677f"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u4e0d\u8981\u518d\u6da9\u6da9\u4e86"
+        ]
+    },
+    "yuzu_soft_murasame_clothes": {
+        "keywords": [
+            "\u4e1b\u96e8\u8863\u670d",
+            "\u4e1b\u96e8\u8863\u7269"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_murasame_dislike": {
+        "keywords": [
+            "\u4e1b\u96e8\u8ba8\u538c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_murasame_finger": {
+        "keywords": [
+            "\u67da\u5b50\u53a8",
+            "\u4e1b\u96e8\u6307"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_murasame_husband": {
+        "keywords": [
+            "\u4e1b\u96e8\u8001\u516c"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_murasame_ipad": {
+        "keywords": [
+            "\u4e1b\u96e8\u5e73\u677f"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_murasame_like": {
+        "keywords": [
+            "\u4e1b\u96e8\u559c\u6b22"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_murasame_say": {
+        "keywords": [
+            "\u4e1b\u96e8\u8bf4"
+        ],
+        "min_images": null,
+        "min_texts": 1,
+        "default_texts": [
+            "\u975e\u914b\uff0c\u4e0d\u8981\u518d\u6da9\u6da9\u4e86"
+        ]
+    },
+    "yuzu_soft_shocked": {
+        "keywords": [
+            "\u9707\u60ca\u67da\u5b50\u53a8"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    },
+    "yuzu_soft_ticket": {
+        "keywords": [
+            "\u51c6\u8003\u8bc1"
+        ],
+        "min_images": 1,
+        "min_texts": 0,
+        "default_texts": []
+    }
 }

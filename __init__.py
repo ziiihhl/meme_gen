@@ -23,19 +23,32 @@ async def main(bot: Bot, event: Event):
     name = event.sender['nickname']
     text = event.text.strip()
     if text :
+        prompts =text.split(" ")[-1]
         meme_key = ''
+        meme_paras={}
         if text != "帮助":
             try:
                 async with aiofiles.open(os.path.dirname(os.path.abspath(__file__)) +"/utils/info.json",'r') as f:
                     content = await f.read()
                     info = json.loads(content)
-                for key,val in info.items():
-                    if text in val:
-                        meme_key=key
-                        break
+                for key,info_dict in info.items():
+                    for k,v in info_dict.items():
+                        if k == "keywords" and text in v:
+                            meme_key = key
+                            break
+
                 if meme_key:
+                    meme_paras["min_images"] =info[meme_key]["min_images"]
+                    meme_paras["min_texts"] = info[meme_key]["min_texts"]
                     meme = get_meme(meme_key)
-                    result = meme(images=[avatar], texts=[], args={"circle": True})
+                    if meme_paras["min_images"] and not meme_paras["min_texts"]:
+                        result = meme(images=[avatar], texts=[], args={"circle": True})
+                    elif meme_paras["min_images"] and meme_paras["min_texts"]:
+                        result = meme(images=[avatar], texts=[prompts], args={"circle": False})
+                    elif not meme_paras["min_images"] and meme_paras["min_texts"]:
+                        result = meme(images=[], texts=[prompts], args={"circle": False})
+                    else :
+                        result = meme(images=[], texts=[], args={"circle": False})
                     message = await convert_img(result.getvalue())
                     await bot.send(message)
                 else :

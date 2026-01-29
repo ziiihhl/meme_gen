@@ -1,3 +1,4 @@
+import copy
 import json
 import os
 import ast
@@ -128,7 +129,7 @@ def main():
         os.makedirs(OUTPUT_DIR)
     modules_info = []
     previews_by_module = {}
-    module_keyword = {}
+    module_map = {}
 
     for folder in os.listdir(MEMES_DIR):
         subdir = os.path.join(MEMES_DIR, folder)
@@ -137,9 +138,11 @@ def main():
         if os.path.isdir(subdir) and os.path.isfile(init_file):
             info = extract_meme_info(init_file)
             if info:
-                module_keyword[folder] = info["keywords"]
+                info_cp = copy.deepcopy(info)
+                del info_cp["date_created"]
+                module_map[folder] = info_cp
                 with open("info.json",'w') as f:
-                    f.write(json.dumps(module_keyword, indent=4))
+                    f.write(json.dumps(module_map, indent=4))
                 modules_info.append((folder, info))
                 image_path = find_first_image_path(subdir)
                 if image_path:
