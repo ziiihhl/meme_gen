@@ -27,7 +27,8 @@ async def main(bot: Bot, event: Event):
         if text != "帮助":
             try:
                 async with aiofiles.open(os.path.dirname(os.path.abspath(__file__)) +"/utils/info.json",'r') as f:
-                    info= json.load(f)
+                    content = f.read()
+                    info = json.loads(content)
                 for key,val in info.items():
                     if text in val:
                         meme_key=key
