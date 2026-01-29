@@ -44,7 +44,7 @@ async def main(bot: Bot, event: Event):
                     if meme_paras["min_images"] and not meme_paras["min_texts"]:
                         result = meme(images=[avatar], texts=[], args={"circle": True})
                     elif meme_paras["min_images"] and meme_paras["min_texts"]:
-                        result = meme(images=[avatar], texts=[prompts], args={"circle": False})
+                        result = meme(images=[avatar], texts=[prompts], args={"circle": True})
                     elif not meme_paras["min_images"] and meme_paras["min_texts"]:
                         result = meme(images=[], texts=[prompts], args={"circle": False})
                     else :
