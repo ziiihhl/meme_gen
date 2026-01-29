@@ -5,7 +5,6 @@ from io import BytesIO
 import httpx
 from meme_generator import get_meme
 from meme_gen.utils import meme_keywords
-from meme_gen.utils.meme_keywords import get
 from gsuid_core.models import Message
 import base64
 from gsuid_core.sv import SV
