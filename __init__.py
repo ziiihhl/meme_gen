@@ -51,8 +51,8 @@ async def main(bot: Bot, event: Event):
                         result = meme(images=[], texts=[], args={"circle": False})
                     message = await convert_img(result.getvalue())
                     await bot.send(message)
-                else :
-                    raise ValueError
+                # else :
+                #     raise ValueError
             except Exception as e:
                 await bot.send(f"错误:{e}请输入有效的key！{prompts}")
         else:
