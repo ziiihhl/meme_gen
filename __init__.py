@@ -23,6 +23,7 @@ async def main(bot: Bot, event: Event):
     name = event.sender['nickname']
     text = event.text
     if text :
+        command = text.split(" ")[0]
         prompts =text.split(" ")[-1]
         meme_key = ''
         meme_paras={}
@@ -33,7 +34,7 @@ async def main(bot: Bot, event: Event):
                     info = json.loads(content)
                 for key,info_dict in info.items():
                     for k,v in info_dict.items():
-                        if k == "keywords" and text in v:
+                        if k == "keywords" and command in v:
                             meme_key = key
                             break
 
